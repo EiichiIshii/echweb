@@ -4,6 +4,8 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.js"></script>
+	<script src="../background.js"></script>
 	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 <title>JYANKEN &#8211; E.C.H / いしいえいいち</title>
 <meta name="robots" content="max-image-preview:large">
@@ -27,10 +29,8 @@ img.emoji {
 	background: none !important;
 	padding: 0 !important;
 }</style>
-	<link rel="stylesheet" id="sb_instagram_styles-css" href="./../wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=2.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="wp-block-library-css" href="./../wp-includes/css/dist/block-library/style.min.css?ver=5.8.2" type="text/css" media="all">
+	<link rel="stylesheet" id="wp-block-library-css" href="./../wp-includes/css/dist/block-library/style.min.css?ver=5.8.2" type="text/css" media="all">
 <style id="wp-block-library-theme-inline-css" type="text/css">#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}</style>
-<link rel="stylesheet" id="contact-form-7-css" href="./../wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.3" type="text/css" media="all">
 <link rel="stylesheet" id="zubin-fonts-css" href="//fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic" type="text/css" media="all">
 <link rel="stylesheet" id="zubin-style-css" href="./../wp-content/themes/zubin/style.css?ver=20220326-15520" type="text/css" media="all">
 <style id="zubin-style-inline-css" type="text/css">.home .custom-header-content .entry-container { max-width: 480px; }
@@ -46,7 +46,7 @@ button, input[type="button"], input[type="reset"], input[type="submit"], .button
 <link rel="https://api.w.org/" href="./../wp-json/index.html">
 <link rel="alternate" type="application/json" href="./../wp-json/wp/v2/pages/230/index.html">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="./../xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./../wp-includes/wlwmanifest.xml"> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="./../wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 5.8.2">
 <link rel="canonical" href="./index.html">
 <link rel="shortlink" href="./../index.html?p=230">
@@ -58,7 +58,7 @@ button, input[type="button"], input[type="reset"], input[type="submit"], .button
 			}</style>
 		<style type="text/css" id="custom-background-css">body.custom-background { background-color: #ffffff; }</style>
 			<style type="text/css" id="wp-custom-css">.copyright, .powered {
-    display:none 
+    display:none
 }
 
 hr {
@@ -79,7 +79,7 @@ hr {
 
 		<div id="site-header-main" class="site-header-main">
 			<div class="wrapper">
-				
+
 <div class="site-branding">
 	<a href="./../index.html" class="custom-logo-link" rel="home"><img width="945" height="945" src="./../wp-content/uploads/2021/12/echlogo.png" class="custom-logo" alt="E.C.H / いしいえいいち" srcset="./../wp-content/uploads/2021/12/echlogo.png 945w, ./../wp-content/uploads/2021/12/echlogo-300x300.png 300w, ./../wp-content/uploads/2021/12/echlogo-150x150.png 150w, ./../wp-content/uploads/2021/12/echlogo-768x768.png 768w" sizes="(max-width: 945px) 100vw, 945px"></a>
 	<div class="site-identity">
@@ -98,8 +98,8 @@ hr {
 <!-- .menu-toggle-wrapper -->
 
 		<div class="menu-inside-wrapper">
-			
-			
+
+
 				<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="メインメニュー">
 					<ul id="primary-menu" class="menu nav-menu">
 <li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="./../profile/index.html">Profile</a></li>
@@ -180,21 +180,21 @@ hr {
 <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="./../performance/index.html">Performance</a></li>
 <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="./../contact/index.html">Contact</a></li>
 </ul>
-			
+
 			<div class="mobile-social-search">
 				<div class="search-container">
-					
+
 
 <form role="search" method="get" class="search-form" action="./">
-	<label for="search-form-623e756a7634b">
+	<label for="search-form-623e8fc0401c7">
 		<span class="screen-reader-text">検索:</span>
-		<input type="search" id="search-form-623e756a7634b" class="search-field" placeholder="検索" value="" name="s">
+		<input type="search" id="search-form-623e8fc0401c7" class="search-field" placeholder="検索" value="" name="s">
 	</label>
 	<button type="submit" class="search-submit"><span class="screen-reader-text">検索</span></button>
 </form>
 				</div>
 
-				
+
 			</div>
 <!-- .mobile-social-search -->
 		</nav>
@@ -203,7 +203,7 @@ hr {
 	</div>
 <!-- #primary-menu-wrapper.menu-wrapper -->
 
-	
+
 	<div id="primary-search-wrapper" class="menu-wrapper">
 		<div class="menu-toggle-wrapper">
 			<button id="social-search-toggle" class="menu-toggle search-toggle">
@@ -214,12 +214,12 @@ hr {
 
 		<div class="menu-inside-wrapper">
 			<div class="search-container">
-				
+
 
 <form role="search" method="get" class="search-form" action="./">
-	<label for="search-form-623e756a76466">
+	<label for="search-form-623e8fc0402ea">
 		<span class="screen-reader-text">検索:</span>
-		<input type="search" id="search-form-623e756a76466" class="search-field" placeholder="検索" value="" name="s">
+		<input type="search" id="search-form-623e8fc0402ea" class="search-field" placeholder="検索" value="" name="s">
 	</label>
 	<button type="submit" class="search-submit"><span class="screen-reader-text">検索</span></button>
 </form>
@@ -240,7 +240,7 @@ hr {
 
 			</header><!-- #masthead -->
 
-	
+
 
 
 
@@ -253,16 +253,16 @@ hr {
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
 			<div class="singular-content-wrap">
-				
+
 <article id="post-230" class="post-230 page type-page status-publish hentry">
-	
+
 		<header class="entry-header">
 			<h1 class="entry-title">JYANKEN</h1>		</header><!-- .entry-header -->
 
 			<!-- Page/Post Single Image Disabled or No Image set in Post Thumbnail -->
 	<div class="entry-content">
 
-		
+
 <figure class="wp-block-image size-full"><img loading="lazy" width="1016" height="1016" src="./../wp-content/uploads/2021/12/jyanken.png" alt="" class="wp-image-231" srcset="./../wp-content/uploads/2021/12/jyanken.png 1016w, ./../wp-content/uploads/2021/12/jyanken-300x300.png 300w, ./../wp-content/uploads/2021/12/jyanken-150x150.png 150w, ./../wp-content/uploads/2021/12/jyanken-768x768.png 768w" sizes="(max-width: 1016px) 100vw, 1016px"></figure>
 
 
@@ -296,7 +296,7 @@ hr {
 
 <footer id="colophon" class="site-footer">
 
-	
+
 
 <aside class="widget-area footer-widget-area one" role="complementary">
 	<div class="wrapper">
@@ -305,19 +305,19 @@ hr {
 <p>© E.C.H (Eiichi Ishii)</p>
 </section>			</div>
 <!-- .widget-area -->
-		
-		
+
+
 			</div>
 <!-- .footer-widgets-wrapper -->
 </aside><!-- .footer-widgets -->
 
 
 	<div id="site-generator">
-		
+
 
 	<div class="site-info">
 		<div class="wrapper">
-							<div id="footer-content" class="copyright"> 
+							<div id="footer-content" class="copyright">
 				 	Copyright &copy; 2022年 <a href="./../index.html">E.C.H / いしいえいいち</a> <span class="sep"> | </span>Zubin&nbsp;by&nbsp;<a target="_blank" href="https://catchthemes.com/">Catch Themes</a>				</div>
 					</div>
 <!-- .wrapper -->
@@ -326,22 +326,10 @@ hr {
 	</div>
 <!-- #site-generator -->
 </footer><!-- #colophon -->
-	
+
 </div>
 <!-- #page -->
 
-<!-- Instagram Feed JS -->
-<script type="text/javascript">
-var sbiajaxurl = "./wp-admin/admin-ajax.php";
-</script>
-<script type="text/javascript" src="./../wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
-<script type="text/javascript" src="./../wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
-<script type="text/javascript" id="contact-form-7-js-extra">
-/* <![CDATA[ */
-var wpcf7 = {"api":{"root":".\/wp-json\/","namespace":"contact-form-7\/v1"}};
-/* ]]> */
-</script>
-<script type="text/javascript" src="./../wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.3" id="contact-form-7-js"></script>
 <script type="text/javascript" src="./../wp-content/themes/zubin/assets/js/skip-link-focus-fix.min.js?ver=201800703" id="zubin-skip-link-focus-fix-js"></script>
 <script type="text/javascript" src="./../wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
 <script type="text/javascript" src="./../wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
