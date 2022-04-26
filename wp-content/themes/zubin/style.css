@@ -7173,7 +7173,9 @@ body #sticky-playlist-section .wp-playlist-item-length {
   color: #fff; }
 
 #sticky-playlist-section .wp-playlist-playing .wp-playlist-caption li {
-  color: #6fb9c8; }
+  /*color: #6fb9c8;*/
+  color: #ff0000;
+}
 
 #sticky-playlist-section .wp-playlist-item .wp-playlist-caption {
   color: #fff; }
@@ -15258,7 +15260,8 @@ blockquote:before,
 .toggled-on.active:before,
 .comment-respond .comment-form p.is-focused label,
 .timeline-section .entry-meta a {
-  color: #6fb9c8; }
+  /*color: #6fb9c8;*/
+  color: #ff0000; }
 
 /* Link Hover Color */
 a:hover, a:focus,
@@ -15451,7 +15454,8 @@ table a:hover, table a:focus,
 .portfolio-grid .archive-posts-wrapper .entry-title a:focus,
 .portfolio-grid .archive-posts-wrapper .entry-meta a:hover,
 .portfolio-grid .archive-posts-wrapper .entry-meta a:focus {
-  color: #6fb9c8; }
+  /*color: #6fb9c8;*/
+  color: #ff0000; }
 
 .post-navigation a:hover .nav-title,
 .post-navigation a:focus .nav-title,
@@ -15477,7 +15481,9 @@ table a:hover, table a:focus,
 .sidebar .widget_archive li,
 .sidebar .widget_categories li,
 .sidebar .widget_recent_entries li {
-  color: #6fb9c8; }
+  /* color: #6fb9c8;*/ 
+  color: #ff0000;  }
+
 
 /* Border Color */
 .woocommerce-tabs .panel,
@@ -15681,7 +15687,8 @@ ul.products .onsale,
 .zubin-mejs-container.mejs-container .mejs-controls .mejs-playpause-button.mejs-button button:hover,
 .zubin-mejs-container.mejs-container .mejs-controls .mejs-playpause-button.mejs-button button:focus,
 .playlist-section .wp-playlist-current-item:before {
-  background-color: #6fb9c8; }
+ /* background-color: #6fb9c8; */
+  background-color: #ff0000; }
 
 .more-link.underlined,
 .entry-header .entry-meta .cat-links:before,
@@ -15695,13 +15702,16 @@ ul.products .onsale,
 .site-header-right.icon-with-border li:before,
 .widget-title-with-border .widget-title:before,
 .resume-section .experience .hentry .post-thumbnail:after {
-  border-color: #6fb9c8; }
+  /* border-color: #6fb9c8; */
+   border-color: #ff0000; }
 
 .site-header-right li:before {
-  color: #6fb9c8; }
+  /* color: #6fb9c8; */ 
+  color: #ff0000; }
 
 .wp-playlist .wp-playlist-playing .wp-playlist-caption .wp-playlist-item-title::after {
-  color: #6fb9c8; }
+  /* color: #6fb9c8; */
+  color: #ff0000; }
 
 /* Button Text Color */
 .sticky-post,
@@ -15923,7 +15933,8 @@ input[type="submit"]:focus,
 .featured-slider-section .entry-title a:focus,
 .featured-slider-section .entry-meta a:hover,
 .featured-slider-section .entry-meta a:focus {
-  color: #6fb9c8; }
+ /* color: #6fb9c8; */
+color: #ff0000; }
 
 /* Slider Next/Prev Button Color */
 .featured-slider-section .nav-controls .owl-nav .owl-prev,
@@ -15985,7 +15996,8 @@ body:not(.absolute-header) #site-secondary-header-menu,
 .stats-section.classic-style.style1 .entry-title a:focus,
 .stats-section.classic-style.style1 .more-link:hover,
 .stats-section.classic-style.style1 .more-link:focus {
-  color: #6fb9c8; }
+  /* color: #6fb9c8; */ 
+  color: #ff0000; }
 
 /* Footer Text Color */
 .site-footer,
