@@ -7174,7 +7174,7 @@ body #sticky-playlist-section .wp-playlist-item-length {
 
 #sticky-playlist-section .wp-playlist-playing .wp-playlist-caption li {
   /*color: #6fb9c8;*/
-  color: #ff0000;
+  color: #dc143c;
 }
 
 #sticky-playlist-section .wp-playlist-item .wp-playlist-caption {
@@ -15261,7 +15261,7 @@ blockquote:before,
 .comment-respond .comment-form p.is-focused label,
 .timeline-section .entry-meta a {
   /*color: #6fb9c8;*/
-  color: #ff0000; }
+  color: #dc143c; }
 
 /* Link Hover Color */
 a:hover, a:focus,
@@ -15455,7 +15455,7 @@ table a:hover, table a:focus,
 .portfolio-grid .archive-posts-wrapper .entry-meta a:hover,
 .portfolio-grid .archive-posts-wrapper .entry-meta a:focus {
   /*color: #6fb9c8;*/
-  color: #ff0000; }
+  color: #dc143c; }
 
 .post-navigation a:hover .nav-title,
 .post-navigation a:focus .nav-title,
@@ -15482,7 +15482,7 @@ table a:hover, table a:focus,
 .sidebar .widget_categories li,
 .sidebar .widget_recent_entries li {
   /* color: #6fb9c8;*/ 
-  color: #ff0000;  }
+  color: #dc143c;  }
 
 
 /* Border Color */
@@ -15688,7 +15688,7 @@ ul.products .onsale,
 .zubin-mejs-container.mejs-container .mejs-controls .mejs-playpause-button.mejs-button button:focus,
 .playlist-section .wp-playlist-current-item:before {
  /* background-color: #6fb9c8; */
-  background-color: #ff0000; }
+  background-color: #dc143c; }
 
 .more-link.underlined,
 .entry-header .entry-meta .cat-links:before,
@@ -15703,15 +15703,15 @@ ul.products .onsale,
 .widget-title-with-border .widget-title:before,
 .resume-section .experience .hentry .post-thumbnail:after {
   /* border-color: #6fb9c8; */
-   border-color: #ff0000; }
+   border-color: #dc143c; }
 
 .site-header-right li:before {
   /* color: #6fb9c8; */ 
-  color: #ff0000; }
+  color: #dc143c; }
 
 .wp-playlist .wp-playlist-playing .wp-playlist-caption .wp-playlist-item-title::after {
   /* color: #6fb9c8; */
-  color: #ff0000; }
+  color: #dc143c; }
 
 /* Button Text Color */
 .sticky-post,
@@ -15934,7 +15934,7 @@ input[type="submit"]:focus,
 .featured-slider-section .entry-meta a:hover,
 .featured-slider-section .entry-meta a:focus {
  /* color: #6fb9c8; */
-color: #ff0000; }
+color: #dc143c; }
 
 /* Slider Next/Prev Button Color */
 .featured-slider-section .nav-controls .owl-nav .owl-prev,
@@ -15997,7 +15997,7 @@ body:not(.absolute-header) #site-secondary-header-menu,
 .stats-section.classic-style.style1 .more-link:hover,
 .stats-section.classic-style.style1 .more-link:focus {
   /* color: #6fb9c8; */ 
-  color: #ff0000; }
+  color: #dc143c; }
 
 /* Footer Text Color */
 .site-footer,
