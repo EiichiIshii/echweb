@@ -1,20 +1,16 @@
 let canvas;
-let num = 24;
-let sc = [];
-let cl;
+let w, g, mxf;
 
 function canvasSetup() {
   background(255);
-  cl = 180;
-
-  for (let i = 0; i < num; i++) {
-    sc[i] = new scene();
-  }
+  w = max(width, height);
+  g = w / 20;
+  mxf = int(random(2, 200));
+  //frameRate(1);
 }
 
 function windowResized() {
   resizeCanvas(document.documentElement.scrollWidth, document.documentElement.scrollHeight);
-  //resizeCanvas(windowWidth, windowHeight);
   canvasSetup();
 }
 
@@ -23,65 +19,163 @@ function setup() {
   canvas.position(0, 0);
   canvas.style('z-index', '-1');
 
+  frameRate(60);
+
   canvasSetup();
-  rectMode(CENTER);
   angleMode(DEGREES);
+  rectMode(CENTER);
+  strokeCap(SQUARE);
+
+  display();
 }
 
 function draw() {
-  background(255);
-  for (let i = 0; i < num; i++) {
-    sc[i].update();
-  }
-  stroke(cl);
-  strokeWeight(1);
-  noFill();
-  beginShape(TRIANGLE_STRIP);
-  for (let i = 0; i < num; i++) {
-    sc[i].display();
-  }
-  endShape(CLOSE);
+  //background(255);
 
-  for (let i = 0; i < num; i++) {
-    sc[i].display2();
+  if (frameCount % mxf == 0) {
+    background(255);
+    display();
+    mxf = int(random(2, 200));
+  }
+
+}
+
+function display() {
+  let index = int(random(16));
+  for (let y = g / 2; y <= w - g / 2; y += g) {
+    let shx = random(-40, 40);
+    for (let x = g / 2; x <= w - g / 2; x += g) {
+      for (let c = 0; c <= g / 2; c += g / 8) {
+        drawTxts(x + c, y + random(-g / 8, g / 8), g, index, shx);
+      }
+
+      index++;
+      if (index >= 15) {
+        index = 0;
+      }
+    }
   }
 }
 
-class scene {
-  constructor() {
-    this.x = random(width);
-    this.y = random(height);
-    this.z = random(width / 20, width / 2);
-    this.xn = random(-this.z, this.z);
-    this.yn = random(-this.z, this.z);
-    this.sdx = random(0.001, 0.01);
-    this.sdy = random(0.001, 0.01);
-    this.adx = 0;
-    this.ady = 0;
-    this.an = random(360);
+function drawTxts(posx, posy, r, sw, nshx) {
+  push();
+
+  translate(posx, posy);
+
+  shearX(nshx);
+  scale(0.8);
+
+
+  if (int(random(100)) == 0) {
+    stroke(0);
+  } else {
+    stroke(random([230, 255]));
+  }
+  let lr = random(1, r / 8);
+  strokeWeight(lr);
+  noFill();
+
+  if (sw == 0) {
+    line(0, -r / 2, r / 2, -r / 2);
+    line(0, r / 2, r / 2, r / 2);
+    arc(0, 0, r, r, 90, 270);
   }
 
-  update() {
-    this.adx = map(noise(this.xn), 0, 1, -this.z, this.z);
-    this.ady = map(noise(this.yn), 0, 1, -this.z, this.z);
-
-    this.xn += this.sdx;
-    this.yn += this.sdy;
+  if (sw == 1) {
+    line(-r / 2, -r / 2, r / 4, -r / 2);
+    line(-r / 2, 0, r / 4, 0);
+    arc(r / 4, -r / 4, r / 2, r / 2, 270, 90);
+    line(-r / 2, -r / 2 - lr / 2, -r / 2, r / 2);
+    line(-r / 2, 0, r / 2, r / 2);
   }
 
-  display() {
-    vertex(this.x + this.adx, this.y + this.ady);
+  if (sw == 2) {
+    beginShape();
+    vertex(r / 2, -r / 2);
+    vertex(-r / 2, -r / 2);
+    vertex(-r / 2, r / 2);
+    vertex(r / 2, r / 2);
+    endShape();
+
+    line(-r / 2, 0, r / 2, 0);
   }
 
-  display2() {
-    fill(cl);
-    noStroke();
-    push();
-    translate(this.x + this.adx, this.y + this.ady);
-    let angle = map(noise(this.an), 0, 1, 0, 360);
-    this.an += 0.01;
-    rotate(angle);
-    rect(0, 0, this.z/50, this.z/50);
-    pop();
+  if (sw == 3) {
+    beginShape();
+    vertex(-r / 2, r / 2);
+    vertex(0, -r / 2);
+    vertex(r / 2, r / 2);
+    endShape();
+
+    line(-r / 4, 0, r / 4, 0);
   }
+
+  if (sw == 4) {
+    line(-r / 2, -r / 2, r / 2, -r / 2);
+    line(0, -r / 2, 0, r / 2);
+  }
+
+  if (sw == 5) {
+    line(0, -r / 2, 0, r / 2);
+  }
+
+  if (sw == 6) {
+    beginShape();
+    vertex(-r / 2, -r / 2);
+    vertex(0, r / 2);
+    vertex(r / 2, -r / 2);
+    endShape();
+  }
+
+  if (sw == 7) {
+    beginShape();
+    vertex(r / 2, -r / 2);
+    vertex(-r / 2, -r / 2);
+    vertex(-r / 2, r / 2);
+    vertex(r / 2, r / 2);
+    endShape();
+
+    line(-r / 2, 0, r / 2, 0);
+  }
+
+  if (sw == 9) {
+    line(0, -r / 2, r / 2, -r / 2);
+    line(0, r / 2, r / 2, r / 2);
+    arc(0, 0, r, r, 90, 270);
+  }
+
+  if (sw == 10) {
+    ellipse(0, 0, r * 1.1, r * 1.1);
+  }
+
+  if (sw == 11) {
+    beginShape();
+    vertex(0, -r / 2);
+    vertex(-r / 2, -r / 2);
+    vertex(-r / 2, r / 2);
+    vertex(0, r / 2);
+    endShape();
+
+    arc(0, 0, r, r, 270, 90);
+  }
+
+  if (sw == 12) {
+    beginShape();
+    vertex(r / 2, -r / 2);
+    vertex(-r / 2, -r / 2);
+    vertex(-r / 2, r / 2);
+    vertex(r / 2, r / 2);
+    endShape();
+
+    line(-r / 2, 0, r / 2, 0);
+  }
+
+  if (sw == 13) {
+    line(-r / 2, -r / 2, r / 4, -r / 2);
+    line(-r / 2, 0, r / 4, 0);
+    arc(r / 4, -r / 4, r / 2, r / 2, 270, 90);
+    line(-r / 2, -r / 2 - lr / 2, -r / 2, r / 2);
+    line(-r / 2, 0, r / 2, r / 2);
+  }
+  pop();
 }
