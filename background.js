@@ -6,7 +6,6 @@ function canvasSetup() {
   w = max(width, height);
   g = w / 20;
   mxf = int(random(2, 200));
-  //frameRate(1);
 }
 
 function windowResized() {
@@ -30,14 +29,11 @@ function setup() {
 }
 
 function draw() {
-  //background(255);
-
   if (frameCount % mxf == 0) {
     background(255);
     display();
     mxf = int(random(2, 200));
   }
-
 }
 
 function display() {
@@ -59,18 +55,16 @@ function display() {
 
 function drawTxts(posx, posy, r, sw, nshx) {
   push();
-
   translate(posx, posy);
-
   shearX(nshx);
   scale(0.8);
 
-
   if (int(random(100)) == 0) {
-    stroke(0);
+    stroke(random([0, "#dc143c"]));
   } else {
     stroke(random([230, 255]));
   }
+  
   let lr = random(1, r / 8);
   strokeWeight(lr);
   noFill();
