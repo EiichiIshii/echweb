@@ -87,22 +87,6 @@
 			position: fixed;
 			top: 0;
 		}
-		.anim-box.slidein.is-animated {
-                        animation: slideIn 1s cubic-bezier(0.25, 1, 0.5, 1) 1 forwards;
-                }
-   
-                @keyframes slideIn {
-                 0% {
-                        transform: translateX(180px);
-                        opacity: 0;
-                 }
-                 100% {
-                        transform: translateX(0);
-                 }
-                 40%,100% {
-                        opacity: 1;
-                 }
-                }
 	</style>
 	<link rel="stylesheet" id="wp-block-library-css" href="./wp-includes/css/dist/block-library/style.min.css?ver=5.9.3" type="text/css" media="all">
 	<style id="wp-block-library-theme-inline-css" type="text/css">
@@ -1073,6 +1057,24 @@
 		/* ]]> */
 	</script>
 	<script type="text/javascript" src="./wp-content/themes/zubin/assets/js/functions.min.js?ver=201800703" id="zubin-script-js"></script>
+	<style>
+		.anim-box.slidein.is-animated {
+                        animation: slideIn 1s cubic-bezier(0.25, 1, 0.5, 1) 1 forwards;
+                }
+   
+                @keyframes slideIn {
+                 0% {
+                        transform: translateX(180px);
+                        opacity: 0;
+                 }
+                 100% {
+                        transform: translateX(0);
+                 }
+                 40%,100% {
+                        opacity: 1;
+                 }
+                }
+	</style>
 </body>
 
 </html>
