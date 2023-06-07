@@ -62,8 +62,43 @@
 
 
 <meta name="generator" content="Hugo 0.111.2">
-<script src="p5.js"></script>
-<script src="sketch.js"></script>
+
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script type="text/javascript">
+  jQuery(document).ready(function($) {
+    if (window.matchMedia( '(min-width: 649px)' ).matches) {　
+      $.ajax({
+        url: 'p5.js',
+        dataType: 'script',
+        cache: false
+      });
+    } else {
+       $.ajax({
+        url: '',
+        dataType: 'script',
+        cache: false
+      });
+    };
+  });
+  </script>
+
+<script type="text/javascript">
+  jQuery(document).ready(function($) {
+    if (window.matchMedia( '(min-width: 649px)' ).matches) {
+      $.ajax({
+        url: 'sketch.js',
+        dataType: 'script',
+        cache: false
+      });
+    } else {
+       $.ajax({
+        url: '',
+        dataType: 'script',
+        cache: false
+      });
+    };
+  });
+  </script>
 </head>
 
 
