@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E.C.H Web Site</title>
+    <link>https://eiichiishii.github.io/echweb/</link>
+    <description>Recent content on E.C.H Web Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language><atom:link href="https://eiichiishii.github.io/echweb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://eiichiishii.github.io/echweb/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/contact/</guid>
+      <description> 読み込んでいます… </description>
+    </item>
+    
+    <item>
+      <title>「開拓戦弦」ロゴ</title>
+      <link>https://eiichiishii.github.io/echweb/design/kaitakusengen_logo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/design/kaitakusengen_logo/</guid>
+      <description>ロゴデザイン / Logo Design
+山口県を拠点に活動する3ピースバンド
+「開拓戦弦」 https://twitter.com/KAITAKUSENGEN のロゴデザイン。
+デザインディレクションはバンドメンバーの皆様
+2019年</description>
+    </item>
+    
+    <item>
+      <title>* . *</title>
+      <link>https://eiichiishii.github.io/echweb/installation/_._/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/_._/</guid>
+      <description>サウンドインスタレーション / Sound installation
+※time : ∞ (infinity)
+アクリルケースの中の砂利が、その内部に埋め込まれたふたつのスピーカーにより、低周波の音を発生させることで不規則に振動し、かすかに動く作品。Raspberry PiでPure Dataの自作プログラムを作動させている。
+アクリルケース、木箱、Raspberry pi、砂利ほか
+2016年</description>
+    </item>
+    
+    <item>
+      <title>auditory sense and vision</title>
+      <link>https://eiichiishii.github.io/echweb/installation/auditory_sense_and_vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/auditory_sense_and_vision/</guid>
+      <description>E.C.H · auditory sense and vision サウンド・インスタレーション / Sound installation
+※time : 16 ‘ 35
+この作品は、「水色」という資格情報を聴覚情報として表現した、ある種実験的な作品である。フィールド・レコーディングをベースに、楽器、シンセサイザー、プログラミングを用いて音響作品を制作した。
+ヘッドホン、ICレコーダー、木箱 ほか
+2019年</description>
+    </item>
+    
+    <item>
+      <title>ball-MI</title>
+      <link>https://eiichiishii.github.io/echweb/application/ball-mi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/application/ball-mi/</guid>
+      <description>パフォーマンス・ソフトウェア / Perfomance Software
+ボールの壁衝突によりノイズが鳴るパフォーマンス・ソフトウェアである。
+制作年不明</description>
+    </item>
+    
+    <item>
+      <title>bugs</title>
+      <link>https://eiichiishii.github.io/echweb/installation/bugs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/bugs/</guid>
+      <description>インスタレーション / Installation
+※time : ∞ (infinity)
+これは、階段に設置されたLEDテープとスピーカーから構成された作品で、光の移動と音響をbug :「虫」あるいはコンピュータにおける「バグ」両方をコンセプトとした作品である。光が移動する速度やタイミングはマイコンボードによりランダムに設定され、音響はコンセプトを元に作曲されたものである。それぞれが独立しているが、展示環境である階段で合成される形になっている。
+Arduino、LEDテープ、スピーカー、iPod nanoほか
+2021年</description>
+    </item>
+    
+    <item>
+      <title>CASSETTE TAPES</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/cassette_tapes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/cassette_tapes/</guid>
+      <description>NFT Art
+NFTの販売を行っているNFTマーケットプレイスの大手「OpenSea」にてジェネラティブアート専門のコレクション「function draw()」よりリリースした作品。固定価格、1.2ETHで購入された。
+p5.jsのコードそのものをNFT化
+2021年</description>
+    </item>
+    
+    <item>
+      <title>Circuit bending</title>
+      <link>https://eiichiishii.github.io/echweb/circuit_bending/circuit_bending/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/circuit_bending/circuit_bending/</guid>
+      <description>サーキットベンディングとは、電池で動く玩具や電子楽器などの内部回路を改造し、ノイズやグリッチ音などを発生させる楽器にすることである。写真はそれらの自作楽器をライブ・パフォーマンスで使用したものである。
+2007年～</description>
+    </item>
+    
+    <item>
+      <title>daily coding #20210203 (Sphenoid clavicle)</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/daily_coding_20210203_sphenoid_clavicle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/daily_coding_20210203_sphenoid_clavicle/</guid>
+      <description>グラフィック / Graphic
+Generative Artworksの中から厳選したグラフィック。
+2021年2月3日に書いたコードを元に作成。”Sphenoid clavicle”はp5.js Web Editorによって自動的に割り当てられたファイル名。
+スチレンボード、紙
+2021年</description>
+    </item>
+    
+    <item>
+      <title>daily coding #20210309 (Chemical ground)</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/daily_coding_20210309_chemical_ground/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/daily_coding_20210309_chemical_ground/</guid>
+      <description>グラフィック / Graphic
+Generative Artworksの中から厳選したグラフィック。
+2021年3月9日に書いたコードを元に作成。”Chemical ground”はp5.js Web Editorによって自動的に割り当てられたファイル名。
+スチレンボード、紙
+2021年</description>
+    </item>
+    
+    <item>
+      <title>Daily Coding Challenge (PCJ) Gallery – E.C.H Works</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/daily_coding_challenge_pcj_gallerye_c_h_works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/daily_coding_challenge_pcj_gallerye_c_h_works/</guid>
+      <description>グラフィック、ゲーム / Graphic, game
+https://eiichiishii.github.io/daily-coding-challenge-gallery/
+Processing Community Japanのオンライン企画として、2020年4月1日から5月14日の間、Processingやp5.jsなどのユーザーを中心に、毎日お題に沿ってプログラミングをする”デイリーコーディングチャレンジ”が行われ、ハッシュタグ#dailycodingchallengeが付けられた作品がSNSなどで数多くアップロードされた。このギャラリーでは、参加者のひとりであるE.C.Hのすべての作品を展示している。
+”オンライン展覧会”の試みのひとつ。
+2020年</description>
+    </item>
+    
+    <item>
+      <title>Doors</title>
+      <link>https://eiichiishii.github.io/echweb/music/doors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/doors/</guid>
+      <description>オリジナル・アルバム / Original Album
+定価：¥0 （現在ダウンロード不可）
+制作年不明</description>
+    </item>
+    
+    <item>
+      <title>dream</title>
+      <link>https://eiichiishii.github.io/echweb/music/dream/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/dream/</guid>
+      <description>オリジナル・アルバム / Original Album
+定価：¥0 （現在ダウンロード不可）
+制作年不明</description>
+    </item>
+    
+    <item>
+      <title>Exhibition</title>
+      <link>https://eiichiishii.github.io/echweb/exhibition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/exhibition/</guid>
+      <description>「CURATION FREE #2」 見出しへのリンク 2023年5月6日〜5月7日
+@NEORT++（東京都中央区）
+展覧会詳細
+「CURATION FREE」 見出しへのリンク 2022年12月10日〜12月18日
+@NEORT++（東京都中央区）
+展覧会詳細
+「Crypto Art Week Asia in Tokyo 2022」（作品提供） 見出しへのリンク 2022年9月27日〜10月8日
+@DMM 麻布サテライト（東京都港区）
+展覧会詳細
+高尾俊介氏 個展「Tiny Sketches」（作品提供） 見出しへのリンク 2022年5月13日〜6月12日
+@NEORT++（東京都中央区）
+展覧会詳細
+E.C.H 個展「generative: world」 見出しへのリンク 2021年4月20日〜4月25日
+@Ai`s studio（山口県山口市）
+展覧会詳細
+「NONE COLOR Photo Exhibition」 見出しへのリンク 2021年1月8日～1月10日
+@水色画廊（山口県下関市）
+展覧会詳細
+「水色画廊展示会2020」 見出しへのリンク 2020年2月21日～2月23日
+@水色画廊（山口県下関市）
+展覧会詳細
+「水色画廊展示会2019」 見出しへのリンク 2019年2月22日～2月24日
+@水色画廊（山口県下関市）
+展覧会詳細
+「Mizuirogaro 2nd Anniversary Exhibition」 見出しへのリンク 2018年7月13日～2018年7月15日
+@水色画廊（山口県下関市）
+展覧会詳細
+学生グループ展 「borderless」 見出しへのリンク 山口大学総合創作サークル「かしゃころ。」× 山口県立大学 SCC</description>
+    </item>
+    
+    <item>
+      <title>Generative Artworks (Instagram)</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/generative_artworks_instagram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/generative_artworks_instagram/</guid>
+      <description>https://www.instagram.com/eikun_0903/
+Processing/p5.jsで制作したジェネラティブ・アート作品(Generative Art)をInstagramで公開している。
+※随時更新
+2017年～</description>
+    </item>
+    
+    <item>
+      <title>ground-0</title>
+      <link>https://eiichiishii.github.io/echweb/installation/ground-0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/ground-0/</guid>
+      <description>映像インスタレーション / Video installation
+※time ∞ (infinity)
+日常に潜む「放射線」をテーマにした作品。Google Mapsのストリートビューから無作為に選出した写真を素材として使用し、映像を構成している。
+PC、モニター、木材ほか
+制作年不明</description>
+    </item>
+    
+    <item>
+      <title>High waist suspenders 1st E.P 「Scarlet」</title>
+      <link>https://eiichiishii.github.io/echweb/design/high_waist_suspenders_1st_e_p-_scarlet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/design/high_waist_suspenders_1st_e_p-_scarlet/</guid>
+      <description>CDデザイン / CD-Design (Artwork)
+山口県を拠点に活動する4ピースロックバンド 「High waist suspenders」の1st E.PのCDデザイン。
+デザインディレクションはバンドメンバーの皆様
+2018年</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://eiichiishii.github.io/echweb/music/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/home/</guid>
+      <description>フィールド・レコーディングとプログラミングによる作品。
+定価：¥1000
+2018年
+購入はこちらか、イベント等で(CD)
+Home E.C.H https://echmusics.bandcamp.com/album/home</description>
+    </item>
+    
+    <item>
+      <title>in the spirit</title>
+      <link>https://eiichiishii.github.io/echweb/music/in_the_spirit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/in_the_spirit/</guid>
+      <description>オリジナル・アルバム / Original Album
+試聴音源
+E.C.H · E.C.H &amp;quot;in the spirit&amp;quot; trailer シンセサイザーによる即興演奏がベースになっている作品。メロディを極力排除した。
+定価：¥500
+2018年</description>
+    </item>
+    
+    <item>
+      <title>intervention</title>
+      <link>https://eiichiishii.github.io/echweb/installation/intervention/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/intervention/</guid>
+      <description>サウンド・インスタレーション / Sound installation
+※time : ∞ (infinity)
+これは、 Raspberry Piにプログラムされた、一定間隔で自動で速度が変化するメトロノームにより、2chの出力信号を青色LEDによる光・小型スピーカーによる音で表現した作品である。両者はアクリルチューブで繋がれ、互いに干渉しあう形になっている。しかし、あるタイミングでは信号が一致する場面もあり、これは、個が個であることの同一性、いわゆるアイデンティティの「同期」と「分断」を「境界を意識しない」形態で表現した構造になっている。
+Raspberry Pi、アンプ、LED、スピーカー、アクリルチューブ、木材、ピアノ線ほか
+2020年</description>
+    </item>
+    
+    <item>
+      <title>Jumble</title>
+      <link>https://eiichiishii.github.io/echweb/music/jumble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/jumble/</guid>
+      <description>テクノアルバム / Techno Album
+定価：¥1000
+2019年 購入はこちらか、イベント等で(CD)
+Jumble E.C.H https://echmusics.bandcamp.com/album/jumble</description>
+    </item>
+    
+    <item>
+      <title>JYANKEN</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/jyanken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/jyanken/</guid>
+      <description>NFT Art
+NFTの販売を行っているNFTマーケットプレイスの大手「OpenSea」にてジェネラティブアート専門のコレクション「function draw()」よりリリースした作品。固定価格、1.2ETHで購入された。
+p5.jsのコードそのものをNFT化
+2021年</description>
+    </item>
+    
+    <item>
+      <title>Natural Light</title>
+      <link>https://eiichiishii.github.io/echweb/music/natural_light/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/natural_light/</guid>
+      <description>オリジナル・アルバム / Original Album
+定価：¥500
+2017年</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://eiichiishii.github.io/echweb/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/news/</guid>
+      <description>2022/10/30
+ヘッドフォンコンサート「中園町サイレントハーモニーvol.1 谷康弘＋石井栄一」に出演しました。
+https://www.ycam.jp/events/2022/nakazonocho-silent-harmony-vol1/
+2022/09/27
+NFTアートの祭典「Crypto Art Week Asia in Tokyo 2022」のNEORT展示スペースに作品を提供しました。
+https://2022.cawa.tokyo/
+2022/09/19
+ジェネラティブアーティストOkazz氏のNFTプロジェクト「KUMALEON」にコラボレーターとして参加しました。
+https://kumaleon.com/
+2022/05/13
+クリエイティブコーダー高尾俊介氏の個展「Tiny Sketches」に作品を提供しました。
+https://tinysketches.neort.io/ja
+2022/04/26 個人のアカウントでNFT作品の販売を開始しました。
+fxhash
+NEORT
+OpenSea
+2021/9/29
+NFTマーケットプレイスの大手「OpenSea」上のジェネラティブアート専門のコレクション「function draw()」より、 自身初のNFT作品を3点リリースしました。
+“CASSETTE TAPES”
+“STACK”
+“JYANKEN”
+2021/06/26
+山口情報芸術センターの展示「YCAM Dance Crew」のための楽曲を制作・提供しました。
+https://www.ycam.jp/events/2021/ycam-dance-crew
+2021/04/20
+山口市のレンタルギャラリー「Ai`s studio」で自身初の個展 “generative world”を開催しました。
+2019/04/19
+bancampにて、自身のデジタルアルバムの販売を開始しました。
+https://echmusics.bandcamp.com
+2019/02/22-02/24
+下関市のレンタルギャラリー「水色画廊」の展示会に作品を出展しました。
+2018/12/27
+4ピースロックバンド・High waist suspendersの1st E.P “SCARLET”のCDデザインを担当しました。</description>
+    </item>
+    
+    <item>
+      <title>ONE</title>
+      <link>https://eiichiishii.github.io/echweb/installation/one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/one/</guid>
+      <description>サウンド・インスタレーション / Sound installation
+※time : 18 ‘ 45
+空間にスネアドラムが置かれたインスタレーション作品である。一見すると普通のスネアドラムだが、スタンド上部にスピーカーが設置されており、パルス音を素材として作曲された曲がそのスピーカーから再生され、スネアドラムに張られたスプリングが振動することで、あたかもスネアドラムが叩かれたように感じる。
+スネアドラム、スネアスタンド、BlueToothスピーカー、iPod Touchほか
+2021年</description>
+    </item>
+    
+    <item>
+      <title>Ordinary days</title>
+      <link>https://eiichiishii.github.io/echweb/music/ordinary_days/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/ordinary_days/</guid>
+      <description>オリジナル・アルバム / Original Album
+定価：¥500
+2016年
+購入はこちらか、イベント等で(CD)
+Ordinary Days E.C.H https://echmusics.bandcamp.com/album/ordinary-days</description>
+    </item>
+    
+    <item>
+      <title>Pastel</title>
+      <link>https://eiichiishii.github.io/echweb/installation/pastel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/pastel/</guid>
+      <description>映像インスタレーション / Video Installation
+※time : ∞ (infinity)
+実家に眠っていたビデオカメラに記録された、作者の幼少期の映像（運動会や幼稚園の発表会などの記録映像）を素材とし、ピクセル単位で色を抽出、プログラム上で再構成した映像作品。
+映像が流れるタイミングや角度などがランダムに変化するため、その時々により様々な表情を見せる。
+また、音響もその場で生成的に流れる。
+iMac、プロジェクター、スピーカーほか
+2015年</description>
+    </item>
+    
+    <item>
+      <title>Performance</title>
+      <link>https://eiichiishii.github.io/echweb/performance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/performance/</guid>
+      <description>「中園町サイレントハーモニーvol.1 谷康弘＋石井栄一」 見出しへのリンク 2021年10月30日
+@旧金子邸
+イベント詳細
+「搬入プロジェクト 山口・中園町計画」（音楽隊として参加） 見出しへのリンク 2021年7月24日
+@山口情報芸術センター（山口県山口市）
+イベント詳細 「搬入プロジェクト Do a front計画」（音楽隊として参加） 見出しへのリンク 2021年6月27日
+@Do a front（山口県山口市）
+「搬入プロジェクト 山口・駅通り計画」（音楽隊として参加） 見出しへのリンク 2021年6月5日
+@山口情報芸術センター「サテライトA」（山口県山口市） 「搬入プロジェクト ビジネスホテルうえの計画」（音楽隊として参加） 見出しへのリンク 2021年2月28日
+@ビジネスホテルうえの（山口県山口市）
+「踊りまくる　アフタークリスマスパーティ」 見出しへのリンク 2015年12月26日
+@FRANK（山口県山口市）
+イベント詳細
+集団：歩行訓練 「地図をつくる #REPLACE」 見出しへのリンク 2013年8月4日
+@Organ’s Melody（山口市）
+空と◯曜日とアートライブ　平川渚「地面を編む」クロージングイベント 見出しへのリンク 2013年7月31日
+@スタジオイマイチ（山口県山口市）
+イベント詳細
+集団：歩行訓練 「地図をつくる」 見出しへのリンク 2013年6月2日
+@Organ’s Melody（山口県山口市）
+「DIY MUSIC: OUTRAGE」 見出しへのリンク 2013年2月1日
+@SuperDeluxe（東京都港区）
+イベント詳細
+「五五今市披露の会」 見出しへのリンク 2012年5月5日
+@スタジオイマイチ（山口市）
+イベント詳細
+「芳流庵展 2011　オープニングパフォーマンス」 見出しへのリンク 2011年1月29日</description>
+    </item>
+    
+    <item>
+      <title>Photo Collage Engine</title>
+      <link>https://eiichiishii.github.io/echweb/application/photo_collage_engine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/application/photo_collage_engine/</guid>
+      <description>Processing Sketch
+任意の写真を円形にコラージュするProcessing Sketchである。
+制作年不明</description>
+    </item>
+    
+    <item>
+      <title>prelude</title>
+      <link>https://eiichiishii.github.io/echweb/music/prelude/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/prelude/</guid>
+      <description>オリジナル・アルバム / Original Album
+定価：¥0 （現在ダウンロード不可）
+制作年不明</description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>https://eiichiishii.github.io/echweb/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/profile/</guid>
+      <description>E. C. H / いしいえいいち 見出しへのリンク Artist, Creative coder.
+1994年、山口県生まれ。
+幼少期から、電子音楽や機械・コンピューターに興味を持つ。
+中学生ごろから「サーキットベンディング」 (wiki: Circuit Bending) と呼ばれる、既存の電子基板を改造し独自の機能を加える手法を用いて、電子楽器の制作を始めた。これらを使った即興演奏によるパフォーマンスを、文化施設やクリエイティブスペース、ライブハウスなどで行った。
+その後、メディアアートに関心を持ち、デジタルアート作品の制作を始める。
+おもにプログラミングを表現の軸とし、グラフィック作品や映像、楽曲、インスタレーションなどを制作。
+大学在学時から学生グループ展や展覧会に参加。
+2021年には自身初の個展「generative: world」を開催。
+近年では「デイリーコーディング」 (Twitterハッシュタグ: #dailycoding) と呼ばれる、毎日ソースコードを書いてグラフィック等を制作する活動を行い、SNSなどで日常的に作品を発表し続けている。
+https://www.instagram.com/eikun_0903/</description>
+    </item>
+    
+    <item>
+      <title>s-seq</title>
+      <link>https://eiichiishii.github.io/echweb/application/s-seq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/application/s-seq/</guid>
+      <description>Pure Data Patch
+任意の音を読み込み、リズムパターンを鳴らすPure Data Patchである。
+制作年不明</description>
+    </item>
+    
+    <item>
+      <title>signal-scene</title>
+      <link>https://eiichiishii.github.io/echweb/music/signal-scene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/signal-scene/</guid>
+      <description> 高校生のときに結成したテクノ・ユニット
+signal-scene · Dive</description>
+    </item>
+    
+    <item>
+      <title>Slit</title>
+      <link>https://eiichiishii.github.io/echweb/installation/slit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/slit/</guid>
+      <description>インタラクティヴ・インスタレーション / Interactive installation
+この作品は、ノートパソコンに内臓されたWebカメラから、展示会場の映像を取り入れ、画面上を自律的に動き回るポジションのピクセル色情報を元に、映像と音響をリアルタイムに生成する作品である。鑑賞者がライトで作品を照らす事で横方向にスリット状の光の帯が発生し、ノイズが流れる。また、部分的には、鑑賞者自身の映像もランダムな解像度で直接映し出される。これは「コンピュータと人間の関係性」、また、ノートパソコン・Webカメラという媒体を利用することにより、普段意識することの少ない「現代社会・あるいは情報化社会から垣間見れる、ある種精神的な空間」の存在を視覚・聴覚化させることを、おもな作品コンセプトとしている。
+ノートパソコン、アンプ、スピーカー、木箱ほか
+2020年</description>
+    </item>
+    
+    <item>
+      <title>Slit ver.2</title>
+      <link>https://eiichiishii.github.io/echweb/installation/slit_ver2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/slit_ver2/</guid>
+      <description>インタラクティヴ・インスタレーション / Interactive installation
+この作品は、PCに接続されたWebカメラから、展示会場の映像を取り入れ、画面上を自律的に動き回るポジションのピクセル色情報を元に、映像と音響をリアルタイムに生成する作品である。鑑賞者がライト等で作品を照らす事で横方向にスリット状の光の帯が発生し、ノイズが流れる。また、部分的には、鑑賞者自身の映像もランダムな解像度で直接映し出される。これは「コンピュータと人間の関係性」、また、PC・Webカメラという媒体を利用することにより、普段意識することの少ない「現代社会・あるいは情報化社会から垣間見れる、ある種精神的な空間」の存在を視覚・聴覚化させることを、おもな作品コンセプトとしている。この作品は2020年に下関市のギャラリー「水色画廊」で展示され、マイナーアップデートを行った。
+ノートパソコン、テレビモニタ、Webカメラほか
+2021年</description>
+    </item>
+    
+    <item>
+      <title>Sora</title>
+      <link>https://eiichiishii.github.io/echweb/music/sora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/sora/</guid>
+      <description>オリジナル・アルバム / Original Album
+定価：¥0 （現在ダウンロード不可）
+制作年不明</description>
+    </item>
+    
+    <item>
+      <title>spheres (silk)</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/spheres_silk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/spheres_silk/</guid>
+      <description>グラフィック / Graphic
+この作品は、作家自身の日課である「デイリーコーディング」により生まれた「ジェネラティブ・アート」（アルゴリズムや数学的・機械的・無作為的な自律過程によってアルゴリズム的に生成、構築される芸術作品）のひとつである。独自のアルゴリズムにより得られた、パラメーターの異なるいくつかの画像から12枚に厳選したものである。
+光沢紙、パネル
+2020年</description>
+    </item>
+    
+    <item>
+      <title>STACK</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/stack/</guid>
+      <description>NFT Art
+NFTの販売を行っているNFTマーケットプレイスの大手「OpenSea」にてジェネラティブアート専門のコレクション「function draw()」よりリリースした作品。固定価格、1.2ETHで購入された。
+p5.jsのコードそのものをNFT化
+2021年</description>
+    </item>
+    
+    <item>
+      <title>superorganism</title>
+      <link>https://eiichiishii.github.io/echweb/installation/superorganism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/superorganism/</guid>
+      <description>映像インスタレーション / Video installation
+※time : ∞ (infinity)
+この作品は、Raspberry Piに接続された小型ディスプレイを顕微鏡で覗いて鑑賞する作品である。顕微鏡の下の小さな窓からは、プログラムが生成する複数の生命体が動いている様子が見える。また、実際にそれぞれが固有の寿命を持っている。寿命が尽きるとまた新たな生命体が誕生し、移動を始める。また、複数の生命体が一度に死ぬ瞬間もプログラムに組み込まれており、これは、社会を象徴している。
+ところが、顕微鏡を覗くと、ひとつの生命だと思っていたものが、ディスプレイのピクセルの集合でできていることに気づかされる。これは、作品タイトルのsuperorganism（超個体）を連想させる。
+時代とともにディスプレイの解像度がどんどん上がり、ピクセルの存在が人々の意識から薄れていく（あるいは存在に気づかなくなっている）中で、顕微鏡を覗き、そこに見えた生命を通して、「小さな個体が大きな個体を形作っている現象」を感じてもらいたいと思い制作した。
+Raspberry Pi、液晶ディスプレイ、顕微鏡 ほか
+2019年</description>
+    </item>
+    
+    <item>
+      <title>torsion</title>
+      <link>https://eiichiishii.github.io/echweb/installation/torsion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/torsion/</guid>
+      <description>映像インスタレーション / Video installation
+※time : ∞ (infinity)
+「空間の歪み」や「ねじれ」をコンセプトとし、作者が考えたアルゴリズムにより、その独自プログラムが、歪みやねじれの要素を含んだ「偶然できる形」を絶えず生成し続ける作品。また、次の形状を生成するタイミングも、その物体の持つ固有の角度情報により決定される。これらは自然、特に宇宙（天体や星、人工衛星も含めた空間そのもの）からインスパイアされ、造形の偶然性、印象の複雑性などが、作品全体のイメージやシステムに反映されている。
+タブレットPC、アクリル板、ボルト・ナットほか
+2015年</description>
+    </item>
+    
+    <item>
+      <title>torsion – light blue version</title>
+      <link>https://eiichiishii.github.io/echweb/installation/torsion-light_blue_version/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/torsion-light_blue_version/</guid>
+      <description>映像インスタレーション / Video installation
+※time : ∞ (infinity)
+2016年に秋吉台国際芸術村（AIAV）で展示された”torsion”のセルフ・リメイク作品。「水色」という要素と、パーティクル（粒子）の変動が付け加えられ、より宇宙的な側面が強くなっている。
+タブレットPC、木材、アクリル板、ほか
+2019年</description>
+    </item>
+    
+    <item>
+      <title>untitled</title>
+      <link>https://eiichiishii.github.io/echweb/music/untitled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/untitled/</guid>
+      <description>オリジナル・アルバム / Original Album
+定価：¥0 （現在ダウンロード不可）
+制作年不明</description>
+    </item>
+    
+    <item>
+      <title>viewfinder</title>
+      <link>https://eiichiishii.github.io/echweb/music/viewfinder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/viewfinder/</guid>
+      <description>オリジナル・アルバム / Original Album
+フィールド・レコーディングや楽器のサンプリングを行いながらも、シンセサイザーやプログラミングにより各楽曲を制作した作品。少しエレクトロニカ的要素が強くなっている。
+定価：¥500
+2016年
+購入はこちらか、イベント等で(CD)
+viewfinder E.C.H https://echmusics.bandcamp.com/album/viewfinder</description>
+    </item>
+    
+    <item>
+      <title>viewpoint</title>
+      <link>https://eiichiishii.github.io/echweb/installation/viewpoint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/viewpoint/</guid>
+      <description>映像インスタレーション / Video Installation
+山口～東京間の新幹線の車窓をインターバル撮影し、編集した映像作品。映像に合わせてシンセサイザーなどで音響効果も加えている。
+デジタルフォトフレームほか
+制作年不明</description>
+    </item>
+    
+    <item>
+      <title>Works</title>
+      <link>https://eiichiishii.github.io/echweb/works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/works/</guid>
+      <description>Installation 見出しへのリンク 耳のいきつぎ「この音はなんの音？」 ／ bugs ／ ONE ／ Slit ver.2 ／ Slit ／ intervention ／ torsion – light blue version ／ superorganism ／ auditory sense and vision ／ * . * ／ Pastel ／ torsion ／ ground-0 ／ viewpoint
+Graphic 見出しへのリンク CASSETTE TAPES ／ STACK ／ JYANKEN ／ daily coding #20210309 (Chemical ground) ／ daily coding #20210203 (Sphenoid clavicle) ／ Daily Coding Challenge (PCJ) Gallery – E.C.H Works ／ spheres (silk) ／ Generative Artworks (instagram)</description>
+    </item>
+    
+    <item>
+      <title>YCAM Dance Crew – Tech House 1-2</title>
+      <link>https://eiichiishii.github.io/echweb/music/ycam_dance_crewtech_house_1-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/ycam_dance_crewtech_house_1-2/</guid>
+      <description>楽曲 / Track
+※time: 30sec × 2
+山口情報芸術センターで開催された、体験者が自身のダンスを撮影し、その映像を加工することができる体験型の展示「YCAM Dance Crew」のための楽曲を制作・提供したものである。楽曲はそれぞれ、
+・Tech House 1
+・Tech House 2
+であり、各30秒である。
+使用されなかった楽曲
+E.C.H · MUSIC FOR YCAM Dance Crew / Track 3-5 (unreleased works) 2021年</description>
+    </item>
+    
+    <item>
+      <title>YCAMオープンラボ2021 「オルタナティブ・エデュケーション」Webバックエレメント</title>
+      <link>https://eiichiishii.github.io/echweb/design/ycam_openlab_2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/design/ycam_openlab_2021/</guid>
+      <description>Webバックエレメント（背景プログラム）
+YCAMオープンラボ2021「オルタナティブエデュケーション」
+特設サイト（https://alternative-education.ycam.jp/）の背景プログラム
+2021年</description>
+    </item>
+    
+    <item>
+      <title>耳のいきつぎ「この音はなんの音？」</title>
+      <link>https://eiichiishii.github.io/echweb/installation/miminoikitsugi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/miminoikitsugi/</guid>
+      <description>インタラクティヴ・インスタレーション / Interactive installation
+やまぐちアートコミュニケータープログラムの一環として開催された、フィールドレコーディングワークショップ「耳のいきつぎ」で採集された音をクイズ形式で体験するインスタレーション。
+やまぐちアートコミュニケーターの藤井直子さんとの共同制作。
+2022年</description>
+    </item>
+    
+  </channel>
+</rss>
