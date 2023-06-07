@@ -7,7 +7,7 @@ let str = ["た", "ぶ", "ん", "、", "ア", "ー", "テ", "ィ", "ス", "ト",
 let myfont;
 
 function preload(){
-    myfont = loadFont("../HinaMincho-Regular.ttf");
+    myfont = loadFont("HinaMincho-Regular.ttf");
 }
 
 function canvasSetup(){
