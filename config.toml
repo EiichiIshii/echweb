@@ -1,0 +1,101 @@
+baseURL = "http://www.example.com"
+title = "E.C.H Web Site"
+theme = "hugo-coder"
+languageCode = "ja"
+defaultContentLanguage = "ja"
+paginate = 20
+enableEmoji = true
+publishDir = "docs"
+
+[markup.highlight]
+style = "github-dark"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+author = "E . C . H / いしいえいいち"
+description = "E.C.H's personal website"
+keywords = "blog,developer,personal"
+info = ["Artist", "Creative Coder"]
+avatarURL = "images/echlogo2.png"
+dateFormat = "January 2, 2006"
+since = 2015
+commit = "https://github.com/luizdepra/hugo-coder/tree/"
+rtl = false
+colorScheme = "light"
+hideColorSchemeToggle = true
+maxSeeAlsoItems = 5
+customCSS = []
+customSCSS = []
+customJS = []
+customRemoteJS = []
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 3
+url = "https://twitter.com/eikun_0903"
+
+[[params.social]]
+name = "Facebook"
+icon = "fa fa-2x fa-facebook"
+weight = 3
+url = "https://www.facebook.com/eiichi.ishii1"
+
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-2x fa-instagram"
+weight = 3
+url = "https://www.instagram.com/eikun_0903/"
+
+[[params.social]]
+name = "YouTube"
+icon = "fa fa-2x fa-youtube"
+weight = 3
+url = "http://www.youtube.com/user/EiichiIshii"
+
+[[params.social]]
+name = "SoundCloud"
+icon = "fa fa-2x fa-soundcloud"
+weight = 3
+url = "http://soundcloud.com/eiichiishii"
+
+[languages.ja]
+#languageName = ":ja:"
+
+[[languages.ja.menu.main]]
+name = "Profile"
+weight = 1
+url = "profile/"
+
+[[languages.ja.menu.main]]
+name = "News"
+weight = 2
+url = "news/"
+
+[[languages.ja.menu.main]]
+name = "Works"
+weight = 3
+url = "works/"
+
+[[languages.ja.menu.main]]
+name = "Exhibition"
+weight = 4
+url = "exhibition/"
+
+[[languages.ja.menu.main]]
+name = "Performance"
+weight = 5
+url = "performance/"
+
+[[languages.ja.menu.main]]
+name = "Contact"
+weight = 6
+url = "contact/"
