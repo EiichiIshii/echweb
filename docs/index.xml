@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language><atom:link href="https://eiichiishii.github.io/echweb/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://eiichiishii.github.io/echweb/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eiichiishii.github.io/echweb/contact/</guid>
-      <description> 読み込んでいます… </description>
-    </item>
-    
-    <item>
       <title>「開拓戦弦」ロゴ</title>
       <link>https://eiichiishii.github.io/echweb/design/kaitakusengen_logo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -98,6 +89,18 @@ p5.jsのコードそのものをNFT化
       <guid>https://eiichiishii.github.io/echweb/circuit_bending/circuit_bending/</guid>
       <description>サーキットベンディングとは、電池で動く玩具や電子楽器などの内部回路を改造し、ノイズやグリッチ音などを発生させる楽器にすることである。写真はそれらの自作楽器をライブ・パフォーマンスで使用したものである。
 2007年～</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://eiichiishii.github.io/echweb/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/contact/</guid>
+      <description> お名前
+メールアドレス
+お問い合わせ内容
+送信する </description>
     </item>
     
     <item>

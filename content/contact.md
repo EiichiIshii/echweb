@@ -1,6 +1,24 @@
 +++
+title = "Contact"
 +++
 
-<div align="center">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSekqMZ7IYyQR_1ivGmiOqjhMUkdYvq3XVXmDjBiqmkTfNQTRA/viewform?embedded=true" width="640" height="780" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
-</div>
+<form action="https://ssgform.com/s/w8Mr4An6uUXe" method="post">
+<p>お名前</p>
+<input type="text" name="お名前" class="frame" required="required" />
+<p>メールアドレス</p>
+<input type="email" name="メールアドレス" class="frame" required="required" />
+<p>お問い合わせ内容</p>
+<textarea name="お問い合わせ内容" class="frame" required="required"></textarea><br>
+<button type="submit">送信する</button>
+</form>
+
+<style>
+.frame{
+    outline:solid 1px black;
+}
+
+textarea {
+	width: 100%;
+	height: 300px;
+}
+</style>

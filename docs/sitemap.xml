@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://eiichiishii.github.io/echweb/contact/</loc>
-  </url><url>
     <loc>https://eiichiishii.github.io/echweb/design/kaitakusengen_logo/</loc>
   </url><url>
     <loc>https://eiichiishii.github.io/echweb/installation/_._/</loc>
@@ -25,6 +23,8 @@
     <loc>https://eiichiishii.github.io/echweb/circuit_bending/circuit_bending/</loc>
   </url><url>
     <loc>https://eiichiishii.github.io/echweb/circuit_bending/</loc>
+  </url><url>
+    <loc>https://eiichiishii.github.io/echweb/contact/</loc>
   </url><url>
     <loc>https://eiichiishii.github.io/echweb/graphic/daily_coding_20210203_sphenoid_clavicle/</loc>
   </url><url>
