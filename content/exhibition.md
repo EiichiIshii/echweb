@@ -7,6 +7,8 @@ title = "Exhibition"
 &nbsp;&nbsp;&nbsp;&nbsp;@NEORT++（東京都中央区）  
 &nbsp;&nbsp;&nbsp;&nbsp;[展覧会詳細](https://neort.io/challenge/ch4hvjsn70rhlpf0n460) 
 
+***
+
 ##### 「CURATION FREE」  
 &nbsp;&nbsp;&nbsp;&nbsp;2022年12月10日〜12月18日  
 &nbsp;&nbsp;&nbsp;&nbsp;@NEORT++（東京都中央区）  

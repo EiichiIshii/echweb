@@ -348,3 +348,7 @@
   [hidden] {
     display: none;
   }
+
+  .footer{
+    display:none;
+  }

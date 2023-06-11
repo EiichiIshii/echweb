@@ -305,6 +305,9 @@ template {
 [hidden] {
   display: none; }
 
+.footer {
+  display: none; }
+
 /*!
 Fork Awesome 1.2.0
 License - https://forkaweso.me/Fork-Awesome/license
