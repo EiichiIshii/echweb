@@ -2,13 +2,7 @@ let canvas;
 
 let num = 10;
 let ps = new Array(num);
-let w, g, txn, tyn;
-let str = ["た", "ぶ", "ん", "、", "ア", "ー", "テ", "ィ", "ス", "ト", "。"];
-let myfont;
-
-function preload(){
-    myfont = loadFont("HinaMincho-Regular.ttf");
-}
+let w;
 
 function canvasSetup(){
     background(255);
@@ -18,10 +12,6 @@ function canvasSetup(){
     for (let i = 0; i < num; i++) {
         ps[i] = new particles();
     }
-
-    g = height / str.length;
-    txn = random(-g, g);
-    tyn = random(-g, g);
 }
 
 function windowResized(){
@@ -36,8 +26,6 @@ function setup() {
 
     canvasSetup();
     angleMode(DEGREES);
-    textFont(myfont);
-    textAlign(CENTER, CENTER);
 }
 
 function draw() {
@@ -48,35 +36,6 @@ function draw() {
     for (let i = 0; i < num; i++) {
         ps[i].update();
         ps[i].display();
-    }
-
-    let tadx = map(noise(txn), 0, 1, -g, g);
-    let tady = map(noise(tyn), 0, 1, -g, g);
-    txn += 0.005;
-    tyn += 0.005;
-    let ts = g / 3;
-    textSize(ts);
-    for (let j = 0; j < str.length; j++) {
-        push();
-        let adx, ady;
-        if (j == 3 || j == str.length - 1) {
-            adx = ts / 2;
-            ady = -ts / 2;
-        }else if(j == 5){
-            adx = ts/4;
-            ady = ts/8;
-        }else {
-            adx = 0;
-            ady = 0;
-        }
-        translate(width/10+adx + tadx, j * (ts) + height/1.8 + ts + ady + tady);
-        if (j == 5) {
-            rotate(90);
-        } else {
-            rotate(0);
-        }
-        text(str[j], 0, 0);
-        pop();
     }
 }
 
