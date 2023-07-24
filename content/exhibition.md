@@ -2,6 +2,13 @@
 title = "Exhibition"
 +++
 
+##### 「アートTシャツ展2023」  
+&nbsp;&nbsp;&nbsp;&nbsp;2023年7月6日〜7月17日  
+&nbsp;&nbsp;&nbsp;&nbsp;@ギャラリーナカノ（山口県山口市）  
+&nbsp;&nbsp;&nbsp;&nbsp;[展覧会詳細](https://www.facebook.com/Gyararinakano/posts/pfbid02oKedkbzJBv4875pxoTPRxTC6gmRBsmm8ChxXjVqXJQJDaMasb7TaXb7dKuiP6LUTl)  
+
+***
+
 ##### 「CURATION FREE #2」  
 &nbsp;&nbsp;&nbsp;&nbsp;2023年5月6日〜5月7日  
 &nbsp;&nbsp;&nbsp;&nbsp;@NEORT++（東京都中央区）  

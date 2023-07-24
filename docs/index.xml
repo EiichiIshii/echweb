@@ -180,7 +180,10 @@ Processing Community Japanのオンライン企画として、2020年4月1日か
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eiichiishii.github.io/echweb/exhibition/</guid>
-      <description>「CURATION FREE #2」 見出しへのリンク 2023年5月6日〜5月7日
+      <description>「アートTシャツ展2023」 見出しへのリンク 2023年7月6日〜7月17日
+@ギャラリーナカノ（山口県山口市）
+展覧会詳細
+「CURATION FREE #2」 見出しへのリンク 2023年5月6日〜5月7日
 @NEORT++（東京都中央区）
 展覧会詳細
 「CURATION FREE」 見出しへのリンク 2022年12月10日〜12月18日
@@ -204,10 +207,7 @@ E.C.H 個展「generative: world」 見出しへのリンク 2021年4月20日〜
 「水色画廊展示会2019」 見出しへのリンク 2019年2月22日～2月24日
 @水色画廊（山口県下関市）
 展覧会詳細
-「Mizuirogaro 2nd Anniversary Exhibition」 見出しへのリンク 2018年7月13日～2018年7月15日
-@水色画廊（山口県下関市）
-展覧会詳細
-学生グループ展 「borderless」 見出しへのリンク 山口大学総合創作サークル「かしゃころ。」× 山口県立大学 SCC</description>
+「Mizuirogaro 2nd Anniversary Exhibition」 見出しへのリンク 2018年7月13日～2018年7月15日</description>
     </item>
     
     <item>
@@ -327,7 +327,13 @@ p5.jsのコードそのものをNFT化
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eiichiishii.github.io/echweb/news/</guid>
-      <description>2022/10/30
+      <description>2023/07/23
+「サウンドスコーレ」スペシャル・ライブに出演しました。
+https://www.ycam.jp/events/2023/sound-schole/
+2023/07/06
+ギャラリーナカノ「アートTシャツ展2023」に参加しました。
+展覧会詳細
+2022/10/30
 ヘッドフォンコンサート「中園町サイレントハーモニーvol.1 谷康弘＋石井栄一」に出演しました。
 https://www.ycam.jp/events/2022/nakazonocho-silent-harmony-vol1/
 2022/09/27
@@ -409,7 +415,10 @@ iMac、プロジェクター、スピーカーほか
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eiichiishii.github.io/echweb/performance/</guid>
-      <description>「中園町サイレントハーモニーvol.1 谷康弘＋石井栄一」 見出しへのリンク 2021年10月30日
+      <description>「サウンドスコーレ」　スペシャル・ライブ 見出しへのリンク 2023年7月23日
+@山口市中心商店街どうもん広場
+イベント詳細
+「中園町サイレントハーモニーvol.1 谷康弘＋石井栄一」 見出しへのリンク 2022年10月30日
 @旧金子邸
 イベント詳細
 「搬入プロジェクト 山口・中園町計画」（音楽隊として参加） 見出しへのリンク 2021年7月24日
@@ -431,11 +440,7 @@ iMac、プロジェクター、スピーカーほか
 @Organ’s Melody（山口県山口市）
 「DIY MUSIC: OUTRAGE」 見出しへのリンク 2013年2月1日
 @SuperDeluxe（東京都港区）
-イベント詳細
-「五五今市披露の会」 見出しへのリンク 2012年5月5日
-@スタジオイマイチ（山口市）
-イベント詳細
-「芳流庵展 2011　オープニングパフォーマンス」 見出しへのリンク 2011年1月29日</description>
+イベント詳細</description>
     </item>
     
     <item>
@@ -532,6 +537,20 @@ signal-scene · Dive</description>
       <description>オリジナル・アルバム / Original Album
 定価：¥0 （現在ダウンロード不可）
 制作年不明</description>
+    </item>
+    
+    <item>
+      <title>SPACE／T</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/space_t/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/space_t/</guid>
+      <description>Tシャツ
+コードによるジェネラティブアートをTシャツにプリントした作品。
+3,500円で販売され、計3枚購入された。
+また、ソースコードも共に展示した。
+Tシャツにプリント、スチレンボード、光沢紙
+2023年</description>
     </item>
     
     <item>
@@ -643,7 +662,7 @@ viewfinder E.C.H https://echmusics.bandcamp.com/album/viewfinder</description>
       
       <guid>https://eiichiishii.github.io/echweb/works/</guid>
       <description>Installation 見出しへのリンク 耳のいきつぎ「この音はなんの音？」 | bugs | ONE | Slit ver.2 | Slit | intervention | torsion – light blue version | superorganism | auditory sense and vision | * . * | Pastel | torsion | ground-0 | viewpoint
-Graphic 見出しへのリンク CASSETTE TAPES | STACK | JYANKEN | daily coding #20210309 (Chemical ground) | daily coding #20210203 (Sphenoid clavicle) | Daily Coding Challenge (PCJ) Gallery – E.C.H Works | spheres (silk) | Generative Artworks (instagram)</description>
+Graphic 見出しへのリンク SPACE／T | CASSETTE TAPES | STACK | JYANKEN | daily coding #20210309 (Chemical ground) | daily coding #20210203 (Sphenoid clavicle) | Daily Coding Challenge (PCJ) Gallery – E.C.H Works | spheres (silk) | Generative Artworks (instagram)</description>
     </item>
     
     <item>

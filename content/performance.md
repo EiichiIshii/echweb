@@ -2,8 +2,15 @@
 title = "Performance"
 +++
 
+##### 「サウンドスコーレ」　スペシャル・ライブ  
+&nbsp;&nbsp;&nbsp;&nbsp;2023年7月23日  
+&nbsp;&nbsp;&nbsp;&nbsp;@山口市中心商店街どうもん広場  
+&nbsp;&nbsp;&nbsp;&nbsp;[イベント詳細](https://www.ycam.jp/events/2023/sound-schole/)  
+
+***
+
 ##### 「中園町サイレントハーモニーvol.1 谷康弘＋石井栄一」  
-&nbsp;&nbsp;&nbsp;&nbsp;2021年10月30日  
+&nbsp;&nbsp;&nbsp;&nbsp;2022年10月30日  
 &nbsp;&nbsp;&nbsp;&nbsp;@旧金子邸  
 &nbsp;&nbsp;&nbsp;&nbsp;[イベント詳細](https://www.ycam.jp/events/2022/nakazonocho-silent-harmony-vol1/)  
 

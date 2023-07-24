@@ -2,6 +2,18 @@
 title = "News"
 +++
 
+**2023/07/23**  
+「サウンドスコーレ」スペシャル・ライブに出演しました。  
+https://www.ycam.jp/events/2023/sound-schole/  
+
+***
+
+**2023/07/06**  
+ギャラリーナカノ「アートTシャツ展2023」に参加しました。  
+[展覧会詳細](https://www.facebook.com/Gyararinakano/posts/pfbid02oKedkbzJBv4875pxoTPRxTC6gmRBsmm8ChxXjVqXJQJDaMasb7TaXb7dKuiP6LUTl)  
+
+***
+
 **2022/10/30**  
 ヘッドフォンコンサート「中園町サイレントハーモニーvol.1 谷康弘＋石井栄一」に出演しました。  
 https://www.ycam.jp/events/2022/nakazonocho-silent-harmony-vol1/  
