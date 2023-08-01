@@ -18,7 +18,7 @@ title = "Works"
 ***
 
 ##### Music  
-[YCAM Dance Crew – Tech House 1-2]({{< ref "/music/ycam_dance_crew–tech_house_1-2.md">}})  | [Jumble]({{< ref "/music/jumble.md">}}) | [Home]({{< ref "/music/home.md">}}) | [in the spirit]({{< ref "/music/in_the_spirit.md">}}) | [Natural Light]({{< ref "/music/natural_light.md">}}) | [viewfinder]({{< ref "/music/viewfinder.md">}}) | [Ordinary days]({{< ref "/music/ordinary_days.md">}}) | [つくしレコーズ　Circuit bending × DeskTop Music](https://tuxurecords.tumblr.com/post/9498130981/%E7%9F%B3%E4%BA%95%E6%A0%84%E4%B8%80-circuit-bending-desktop-music) | [Doors]({{< ref "/music/doors.md">}}) | [dream]({{< ref "/music/dream.md">}}) | [Sora]({{< ref "/music/sora.md">}}) | [untitled]({{< ref "/music/untitled.md">}}) | [prelude]({{< ref "/music/prelude.md">}}) | [signal-scene]({{< ref "/music/signal-scene.md">}}) 
+[第7回未来の山口の運動会 応援合戦]({{< ref "/music/yamaguchi-future-undokai_cheering-competition.md">}})  | [YCAM Dance Crew – Tech House 1-2]({{< ref "/music/ycam_dance_crew–tech_house_1-2.md">}})  | [Jumble]({{< ref "/music/jumble.md">}}) | [Home]({{< ref "/music/home.md">}}) | [in the spirit]({{< ref "/music/in_the_spirit.md">}}) | [Natural Light]({{< ref "/music/natural_light.md">}}) | [viewfinder]({{< ref "/music/viewfinder.md">}}) | [Ordinary days]({{< ref "/music/ordinary_days.md">}}) | [つくしレコーズ　Circuit bending × DeskTop Music](https://tuxurecords.tumblr.com/post/9498130981/%E7%9F%B3%E4%BA%95%E6%A0%84%E4%B8%80-circuit-bending-desktop-music) | [Doors]({{< ref "/music/doors.md">}}) | [dream]({{< ref "/music/dream.md">}}) | [Sora]({{< ref "/music/sora.md">}}) | [untitled]({{< ref "/music/untitled.md">}}) | [prelude]({{< ref "/music/prelude.md">}}) | [signal-scene]({{< ref "/music/signal-scene.md">}}) 
 
 ***
 

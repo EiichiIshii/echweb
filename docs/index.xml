@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>E.C.H Web Site</title>
+    <title>E.C.H WebSite</title>
     <link>https://eiichiishii.github.io/echweb/</link>
-    <description>Recent content on E.C.H Web Site</description>
+    <description>Recent content on E.C.H WebSite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language><atom:link href="https://eiichiishii.github.io/echweb/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -333,6 +333,9 @@ https://www.ycam.jp/events/2023/sound-schole/
 2023/07/06
 ギャラリーナカノ「アートTシャツ展2023」に参加しました。
 展覧会詳細
+2023/05/05
+第7回未来の山口の運動会の応援合戦のための楽曲を提供しました。
+https://vimeo.com/824000286
 2022/10/30
 ヘッドフォンコンサート「中園町サイレントハーモニーvol.1 谷康弘＋石井栄一」に出演しました。
 https://www.ycam.jp/events/2022/nakazonocho-silent-harmony-vol1/
@@ -704,6 +707,19 @@ YCAMオープンラボ2021「オルタナティブエデュケーション」
 やまぐちアートコミュニケーターの藤井直子さんとの共同制作。
 PC、モニター、micro:bit、ネックスピーカー、木材、プッシュスイッチほか
 2022年</description>
+    </item>
+    
+    <item>
+      <title>第7回未来の山口の運動会 応援合戦</title>
+      <link>https://eiichiishii.github.io/echweb/music/yamaguchi-future-undokai_cheering-competition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/yamaguchi-future-undokai_cheering-competition/</guid>
+      <description>楽曲 / Track
+※time: 3&#39;57
+山口情報芸術センターで開催された、第7回未来の山口の運動会の応援合戦のために制作した楽曲。
+当日録音された応援合戦での声援が楽曲とミックスされ、公開された。
+2023年</description>
     </item>
     
   </channel>

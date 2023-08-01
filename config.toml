@@ -1,5 +1,5 @@
 baseURL = "https://eiichiishii.github.io/echweb"
-title = "E.C.H Web Site"
+title = "E.C.H WebSite"
 theme = "hugo-coder"
 languageCode = "ja"
 defaultContentLanguage = "ja"

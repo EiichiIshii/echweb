@@ -14,6 +14,12 @@ https://www.ycam.jp/events/2023/sound-schole/
 
 ***
 
+**2023/05/05**  
+第7回未来の山口の運動会の応援合戦のための楽曲を提供しました。  
+https://vimeo.com/824000286  
+
+***
+
 **2022/10/30**  
 ヘッドフォンコンサート「中園町サイレントハーモニーvol.1 谷康弘＋石井栄一」に出演しました。  
 https://www.ycam.jp/events/2022/nakazonocho-silent-harmony-vol1/  

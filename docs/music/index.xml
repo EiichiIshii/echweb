@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Musics on E.C.H Web Site</title>
+    <title>Musics on E.C.H WebSite</title>
     <link>https://eiichiishii.github.io/echweb/music/</link>
-    <description>Recent content in Musics on E.C.H Web Site</description>
+    <description>Recent content in Musics on E.C.H WebSite</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language><atom:link href="https://eiichiishii.github.io/echweb/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -161,6 +161,19 @@ viewfinder E.C.H https://echmusics.bandcamp.com/album/viewfinder</description>
 であり、各30秒である。
 使用されなかった楽曲
 E.C.H · MUSIC FOR YCAM Dance Crew / Track 3-5 (unreleased works) 2021年</description>
+    </item>
+    
+    <item>
+      <title>第7回未来の山口の運動会 応援合戦</title>
+      <link>https://eiichiishii.github.io/echweb/music/yamaguchi-future-undokai_cheering-competition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/music/yamaguchi-future-undokai_cheering-competition/</guid>
+      <description>楽曲 / Track
+※time: 3&#39;57
+山口情報芸術センターで開催された、第7回未来の山口の運動会の応援合戦のために制作した楽曲。
+当日録音された応援合戦での声援が楽曲とミックスされ、公開された。
+2023年</description>
     </item>
     
   </channel>
