@@ -2,6 +2,12 @@
 title = "News"
 +++
 
+**2024/02/23**  
+「あそべる図書館—Speculative Library」の「どこでもアート鑑賞」展示コーナーに作品を出展しました。  
+[展覧会詳細](https://www.ycam.jp/events/2023/speculative-library/)  
+
+***
+
 **2023/07/23**  
 「サウンドスコーレ」スペシャル・ライブに出演しました。  
 https://www.ycam.jp/events/2023/sound-schole/  

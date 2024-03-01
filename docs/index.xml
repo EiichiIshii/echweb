@@ -21,10 +21,10 @@
     
     <item>
       <title>* . *</title>
-      <link>https://eiichiishii.github.io/echweb/installation/_._/</link>
+      <link>https://eiichiishii.github.io/echweb/installation/2a202e202a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eiichiishii.github.io/echweb/installation/_._/</guid>
+      <guid>https://eiichiishii.github.io/echweb/installation/2a202e202a/</guid>
       <description>サウンドインスタレーション / Sound installation
 ※time : ∞ (infinity)
 アクリルケースの中の砂利が、その内部に埋め込まれたふたつのスピーカーにより、低周波の音を発生させることで不規則に振動し、かすかに動く作品。Raspberry PiでPure Dataの自作プログラムを作動させている。
@@ -327,7 +327,10 @@ p5.jsのコードそのものをNFT化
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eiichiishii.github.io/echweb/news/</guid>
-      <description>2023/07/23
+      <description>2024/02/23
+「あそべる図書館—Speculative Library」の「どこでもアート鑑賞」展示コーナーに作品を出展しました。
+展覧会詳細
+2023/07/23
 「サウンドスコーレ」スペシャル・ライブに出演しました。
 https://www.ycam.jp/events/2023/sound-schole/
 2023/07/06
@@ -633,6 +636,18 @@ Raspberry Pi、液晶ディスプレイ、顕微鏡 ほか
     </item>
     
     <item>
+      <title>Untitled</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/untitled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/untitled/</guid>
+      <description>グラフィック / Graphic
+山口情報芸術センターで開催された展覧会「あそべる図書館—Speculative Library」内の、地元アーティストや市民から集めた作品や思い出の品々を展示・貸し出すコーナー「どこでもアート鑑賞」に出展した作品。p5.jsで作成したジェネラティブ・アートを紙に印刷し、額に入れたもの。
+紙、木製フレーム
+2023年</description>
+    </item>
+    
+    <item>
       <title>viewfinder</title>
       <link>https://eiichiishii.github.io/echweb/music/viewfinder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -665,7 +680,7 @@ viewfinder E.C.H https://echmusics.bandcamp.com/album/viewfinder</description>
       
       <guid>https://eiichiishii.github.io/echweb/works/</guid>
       <description>Installation 見出しへのリンク 耳のいきつぎ「この音はなんの音？」 | bugs | ONE | Slit ver.2 | Slit | intervention | torsion – light blue version | superorganism | auditory sense and vision | * . * | Pastel | torsion | ground-0 | viewpoint
-Graphic 見出しへのリンク SPACE／T | CASSETTE TAPES | STACK | JYANKEN | daily coding #20210309 (Chemical ground) | daily coding #20210203 (Sphenoid clavicle) | Daily Coding Challenge (PCJ) Gallery – E.C.H Works | spheres (silk) | Generative Artworks (instagram)</description>
+Graphic 見出しへのリンク Untitled | SPACE／T | CASSETTE TAPES | STACK | JYANKEN | daily coding #20210309 (Chemical ground) | daily coding #20210203 (Sphenoid clavicle) | Daily Coding Challenge (PCJ) Gallery – E.</description>
     </item>
     
     <item>
