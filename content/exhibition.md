@@ -2,6 +2,13 @@
 title = "Exhibition"
 +++
 
+##### 「あそべる図書館—Speculative Library : どこでもアート鑑賞」  
+&nbsp;&nbsp;&nbsp;&nbsp;2023年10月28日〜2024年2月25日  
+&nbsp;&nbsp;&nbsp;&nbsp;@山口情報芸術センター（山口県山口市）  
+&nbsp;&nbsp;&nbsp;&nbsp;[展覧会詳細](https://www.ycam.jp/events/2023/speculative-library/)  
+
+***
+
 ##### 「アートTシャツ展2023」  
 &nbsp;&nbsp;&nbsp;&nbsp;2023年7月6日〜7月17日  
 &nbsp;&nbsp;&nbsp;&nbsp;@ギャラリーナカノ（山口県山口市）  

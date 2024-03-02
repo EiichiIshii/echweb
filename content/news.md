@@ -2,9 +2,9 @@
 title = "News"
 +++
 
-**2024/02/23**  
+**2023/10/28**  
 「あそべる図書館—Speculative Library」の「どこでもアート鑑賞」展示コーナーに作品を出展しました。  
-[展覧会詳細](https://www.ycam.jp/events/2023/speculative-library/)  
+https://www.ycam.jp/events/2023/speculative-library/ 
 
 ***
 

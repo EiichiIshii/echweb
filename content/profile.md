@@ -3,7 +3,7 @@ title = "Profile"
 +++
 
 <div align="center">
-<img src="../profile.jpeg" width="60%" height="60%">
+<img src="../profile.jpg" width="60%" height="60%">
 </div>   
 
 ##### E. C. H / いしいえいいち  

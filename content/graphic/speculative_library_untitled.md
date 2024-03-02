@@ -1,5 +1,5 @@
 +++
-title = "Untitled"
+title = "Speculative Library : Untitled"
 +++
 
 <div align="center">

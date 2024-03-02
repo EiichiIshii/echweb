@@ -96,6 +96,18 @@ Tシャツにプリント、スチレンボード、光沢紙
     </item>
     
     <item>
+      <title>Speculative Library : Untitled</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/speculative_library_untitled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/speculative_library_untitled/</guid>
+      <description>グラフィック / Graphic
+山口情報芸術センターで開催された展覧会「あそべる図書館—Speculative Library」内の、地元アーティストや市民から集めた作品や思い出の品々を展示・貸し出すコーナー「どこでもアート鑑賞」に出展した作品。p5.jsで作成したジェネラティブ・アートを紙に印刷し、額に入れたもの。
+紙、木製フレーム
+2023年</description>
+    </item>
+    
+    <item>
       <title>spheres (silk)</title>
       <link>https://eiichiishii.github.io/echweb/graphic/spheres_silk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -117,18 +129,6 @@ Tシャツにプリント、スチレンボード、光沢紙
 NFTの販売を行っているNFTマーケットプレイスの大手「OpenSea」にてジェネラティブアート専門のコレクション「function draw()」よりリリースした作品。固定価格、1.2ETHで購入された。
 p5.jsのコードそのものをNFT化
 2021年</description>
-    </item>
-    
-    <item>
-      <title>Untitled</title>
-      <link>https://eiichiishii.github.io/echweb/graphic/untitled/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eiichiishii.github.io/echweb/graphic/untitled/</guid>
-      <description>グラフィック / Graphic
-山口情報芸術センターで開催された展覧会「あそべる図書館—Speculative Library」内の、地元アーティストや市民から集めた作品や思い出の品々を展示・貸し出すコーナー「どこでもアート鑑賞」に出展した作品。p5.jsで作成したジェネラティブ・アートを紙に印刷し、額に入れたもの。
-紙、木製フレーム
-2023年</description>
     </item>
     
   </channel>

@@ -8,7 +8,7 @@ title = "Works"
 ***
 
 ##### Graphic  
-[Untitled]({{< ref "/graphic/untitled.md">}}) | [SPACE／T]({{< ref "/graphic/space_t.md">}}) | [CASSETTE TAPES]({{< ref "/graphic/cassette_tapes.md">}}) | [STACK]({{< ref "/graphic/stack.md">}}) | [JYANKEN]({{< ref "/graphic/jyanken.md">}}) | [daily coding #20210309 (Chemical ground)]({{< ref "/graphic/daily_coding_20210309_(chemical_ground).md">}}) | [daily coding #20210203 (Sphenoid clavicle)]({{< ref "/graphic/daily_coding_20210203_(sphenoid_clavicle).md">}}) | [Daily Coding Challenge (PCJ) Gallery – E.C.H Works]({{< ref "/graphic/daily_coding_challenge_(pcj)_gallery–e_c_h_works.md">}}) | [spheres (silk)]({{< ref "/graphic/spheres_(silk).md">}}) | [Generative Artworks (instagram)]({{< ref "/graphic/generative_artworks_(instagram).md">}})
+[Speculative Library : Untitled]({{< ref "/graphic/speculative_library_untitled.md">}}) | [SPACE／T]({{< ref "/graphic/space_t.md">}}) | [CASSETTE TAPES]({{< ref "/graphic/cassette_tapes.md">}}) | [STACK]({{< ref "/graphic/stack.md">}}) | [JYANKEN]({{< ref "/graphic/jyanken.md">}}) | [daily coding #20210309 (Chemical ground)]({{< ref "/graphic/daily_coding_20210309_(chemical_ground).md">}}) | [daily coding #20210203 (Sphenoid clavicle)]({{< ref "/graphic/daily_coding_20210203_(sphenoid_clavicle).md">}}) | [Daily Coding Challenge (PCJ) Gallery – E.C.H Works]({{< ref "/graphic/daily_coding_challenge_(pcj)_gallery–e_c_h_works.md">}}) | [spheres (silk)]({{< ref "/graphic/spheres_(silk).md">}}) | [Generative Artworks (instagram)]({{< ref "/graphic/generative_artworks_(instagram).md">}})
 
 ***
 

@@ -180,7 +180,10 @@ Processing Community Japanのオンライン企画として、2020年4月1日か
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eiichiishii.github.io/echweb/exhibition/</guid>
-      <description>「アートTシャツ展2023」 見出しへのリンク 2023年7月6日〜7月17日
+      <description>「あそべる図書館—Speculative Library : どこでもアート鑑賞」 見出しへのリンク 2023年10月28日〜2024年2月25日
+@山口情報芸術センター（山口県山口市）
+展覧会詳細
+「アートTシャツ展2023」 見出しへのリンク 2023年7月6日〜7月17日
 @ギャラリーナカノ（山口県山口市）
 展覧会詳細
 「CURATION FREE #2」 見出しへのリンク 2023年5月6日〜5月7日
@@ -204,10 +207,7 @@ E.C.H 個展「generative: world」 見出しへのリンク 2021年4月20日〜
 「水色画廊展示会2020」 見出しへのリンク 2020年2月21日～2月23日
 @水色画廊（山口県下関市）
 展覧会詳細
-「水色画廊展示会2019」 見出しへのリンク 2019年2月22日～2月24日
-@水色画廊（山口県下関市）
-展覧会詳細
-「Mizuirogaro 2nd Anniversary Exhibition」 見出しへのリンク 2018年7月13日～2018年7月15日</description>
+「水色画廊展示会2019」 見出しへのリンク 2019年2月22日～2月24日</description>
     </item>
     
     <item>
@@ -327,9 +327,9 @@ p5.jsのコードそのものをNFT化
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eiichiishii.github.io/echweb/news/</guid>
-      <description>2024/02/23
+      <description>2023/10/28
 「あそべる図書館—Speculative Library」の「どこでもアート鑑賞」展示コーナーに作品を出展しました。
-展覧会詳細
+https://www.ycam.jp/events/2023/speculative-library/
 2023/07/23
 「サウンドスコーレ」スペシャル・ライブに出演しました。
 https://www.ycam.jp/events/2023/sound-schole/
@@ -560,6 +560,18 @@ Tシャツにプリント、スチレンボード、光沢紙
     </item>
     
     <item>
+      <title>Speculative Library : Untitled</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/speculative_library_untitled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/speculative_library_untitled/</guid>
+      <description>グラフィック / Graphic
+山口情報芸術センターで開催された展覧会「あそべる図書館—Speculative Library」内の、地元アーティストや市民から集めた作品や思い出の品々を展示・貸し出すコーナー「どこでもアート鑑賞」に出展した作品。p5.jsで作成したジェネラティブ・アートを紙に印刷し、額に入れたもの。
+紙、木製フレーム
+2023年</description>
+    </item>
+    
+    <item>
       <title>spheres (silk)</title>
       <link>https://eiichiishii.github.io/echweb/graphic/spheres_silk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -636,18 +648,6 @@ Raspberry Pi、液晶ディスプレイ、顕微鏡 ほか
     </item>
     
     <item>
-      <title>Untitled</title>
-      <link>https://eiichiishii.github.io/echweb/graphic/untitled/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eiichiishii.github.io/echweb/graphic/untitled/</guid>
-      <description>グラフィック / Graphic
-山口情報芸術センターで開催された展覧会「あそべる図書館—Speculative Library」内の、地元アーティストや市民から集めた作品や思い出の品々を展示・貸し出すコーナー「どこでもアート鑑賞」に出展した作品。p5.jsで作成したジェネラティブ・アートを紙に印刷し、額に入れたもの。
-紙、木製フレーム
-2023年</description>
-    </item>
-    
-    <item>
       <title>viewfinder</title>
       <link>https://eiichiishii.github.io/echweb/music/viewfinder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -680,7 +680,7 @@ viewfinder E.C.H https://echmusics.bandcamp.com/album/viewfinder</description>
       
       <guid>https://eiichiishii.github.io/echweb/works/</guid>
       <description>Installation 見出しへのリンク 耳のいきつぎ「この音はなんの音？」 | bugs | ONE | Slit ver.2 | Slit | intervention | torsion – light blue version | superorganism | auditory sense and vision | * . * | Pastel | torsion | ground-0 | viewpoint
-Graphic 見出しへのリンク Untitled | SPACE／T | CASSETTE TAPES | STACK | JYANKEN | daily coding #20210309 (Chemical ground) | daily coding #20210203 (Sphenoid clavicle) | Daily Coding Challenge (PCJ) Gallery – E.</description>
+Graphic 見出しへのリンク Speculative Library : Untitled | SPACE／T | CASSETTE TAPES | STACK | JYANKEN | daily coding #20210309 (Chemical ground) | daily coding #20210203 (Sphenoid clavicle) | Daily Coding Challenge (PCJ) Gallery – E.</description>
     </item>
     
     <item>
