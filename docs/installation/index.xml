@@ -72,6 +72,35 @@ Raspberry Pi、アンプ、LED、スピーカー、アクリルチューブ、�
     </item>
     
     <item>
+      <title>Marble Water</title>
+      <link>https://eiichiishii.github.io/echweb/installation/marble_water/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/marble_water/</guid>
+      <description>映像インスタレーション / Video installation
+※time : 17:50
+絵の具を水面で混ぜたようなグラフィックを出力するプログラムを作り、それをもとに100枚の異なる画像を素材とし、画面を漂う様子を映像化した作品。
+タブレットほか
+2024年</description>
+    </item>
+    
+    <item>
+      <title>Moire-System</title>
+      <link>https://eiichiishii.github.io/echweb/installation/moire_system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/moire_system/</guid>
+      <description>映像インスタレーション / Video installation
+※time : ∞（infinity）
+モアレという現象にフォーカスした作品。
+モアレとは規則正しい繰り返し模様を複数重ね合わせた時に、それらの周期のずれにより視覚的に発生する縞模様のことである。
+通常モアレは不要な情報「ノイズ」として捉えられるが、それをあえて生成し続けることにより、目の前にある現象を見つめなおす体験となる。
+また、ヘッドホンから流れる音は、視覚的なモアレという概念を聴覚的に再現したものである。
+PC、モニター、ヘッドホンほか
+2024年</description>
+    </item>
+    
+    <item>
       <title>ONE</title>
       <link>https://eiichiishii.github.io/echweb/installation/one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -82,6 +111,20 @@ Raspberry Pi、アンプ、LED、スピーカー、アクリルチューブ、�
 空間にスネアドラムが置かれたインスタレーション作品である。一見すると普通のスネアドラムだが、スタンド上部にスピーカーが設置されており、パルス音を素材として作曲された曲がそのスピーカーから再生され、スネアドラムに張られたスプリングが振動することで、あたかもスネアドラムが叩かれたように感じる。
 スネアドラム、スネアスタンド、BlueToothスピーカー、iPod Touchほか
 2021年</description>
+    </item>
+    
+    <item>
+      <title>Particles</title>
+      <link>https://eiichiishii.github.io/echweb/installation/particles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/particles/</guid>
+      <description>インスタレーション / Installation
+p5.jsで粒子を生成するプログラムを描き、その出力画面をモニターに映し、
+インスタントカメラ（INSTAX）で撮影・現像した。
+全部で3種類のバリエーションがあり、デジタルでありながら、アナログの柔らかい質感の融合を目指した。
+チェキフィルム、アクリルブロック、磁石ほか
+2024年</description>
     </item>
     
     <item>

@@ -2,6 +2,11 @@
 title = "News"
 +++
 
+**2024/05/26**  
+グループ展「作家と話せる展覧会」に参加しました。 
+
+***
+
 **2023/10/28**  
 「あそべる図書館—Speculative Library」の「どこでもアート鑑賞」展示コーナーに作品を出展しました。  
 https://www.ycam.jp/events/2023/speculative-library/ 

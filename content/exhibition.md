@@ -2,6 +2,12 @@
 title = "Exhibition"
 +++
 
+##### 「作家と話せる展覧会 ~山口のアート好きで開く展覧会~」  
+&nbsp;&nbsp;&nbsp;&nbsp;2024年5月26日  
+&nbsp;&nbsp;&nbsp;&nbsp;@新山口駅1Fギャラリースペース（山口県山口市）  
+
+***
+
 ##### 「あそべる図書館—Speculative Library : どこでもアート鑑賞」  
 &nbsp;&nbsp;&nbsp;&nbsp;2023年10月28日〜2024年2月25日  
 &nbsp;&nbsp;&nbsp;&nbsp;@山口情報芸術センター（山口県山口市）  

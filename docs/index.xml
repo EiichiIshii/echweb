@@ -33,6 +33,19 @@
     </item>
     
     <item>
+      <title>Areas</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/areas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/areas/</guid>
+      <description>グラフィック / Graphic
+Daily Codingの作品群から選んだ作品をA3サイズで印刷した作品。
+「領域」をテーマにした作品。
+マット紙、インク
+2024年</description>
+    </item>
+    
+    <item>
       <title>auditory sense and vision</title>
       <link>https://eiichiishii.github.io/echweb/installation/auditory_sense_and_vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -180,7 +193,9 @@ Processing Community Japanのオンライン企画として、2020年4月1日か
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eiichiishii.github.io/echweb/exhibition/</guid>
-      <description>「あそべる図書館—Speculative Library : どこでもアート鑑賞」 見出しへのリンク 2023年10月28日〜2024年2月25日
+      <description>「作家と話せる展覧会 ~山口のアート好きで開く展覧会~」 見出しへのリンク 2024年5月26日
+@新山口駅1Fギャラリースペース（山口県山口市）
+「あそべる図書館—Speculative Library : どこでもアート鑑賞」 見出しへのリンク 2023年10月28日〜2024年2月25日
 @山口情報芸術センター（山口県山口市）
 展覧会詳細
 「アートTシャツ展2023」 見出しへのリンク 2023年7月6日〜7月17日
@@ -204,10 +219,7 @@ E.C.H 個展「generative: world」 見出しへのリンク 2021年4月20日〜
 「NONE COLOR Photo Exhibition」 見出しへのリンク 2021年1月8日～1月10日
 @水色画廊（山口県下関市）
 展覧会詳細
-「水色画廊展示会2020」 見出しへのリンク 2020年2月21日～2月23日
-@水色画廊（山口県下関市）
-展覧会詳細
-「水色画廊展示会2019」 見出しへのリンク 2019年2月22日～2月24日</description>
+「水色画廊展示会2020」 見出しへのリンク 2020年2月21日～2月23日</description>
     </item>
     
     <item>
@@ -311,6 +323,61 @@ p5.jsのコードそのものをNFT化
     </item>
     
     <item>
+      <title>Marble Water</title>
+      <link>https://eiichiishii.github.io/echweb/installation/marble_water/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/marble_water/</guid>
+      <description>映像インスタレーション / Video installation
+※time : 17:50
+絵の具を水面で混ぜたようなグラフィックを出力するプログラムを作り、それをもとに100枚の異なる画像を素材とし、画面を漂う様子を映像化した作品。
+タブレットほか
+2024年</description>
+    </item>
+    
+    <item>
+      <title>Mingled</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/mingled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/mingled/</guid>
+      <description>グラフィック / Graphic
+Daily Codingの作品群から選んだ作品をA3サイズで印刷した作品。
+グラフィティ要素の多い作品。ハケで絵の具を伸ばしたような表現をデジタルで試みた。
+マット紙、インク
+2024年</description>
+    </item>
+    
+    <item>
+      <title>Moire-System</title>
+      <link>https://eiichiishii.github.io/echweb/installation/moire_system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/moire_system/</guid>
+      <description>映像インスタレーション / Video installation
+※time : ∞（infinity）
+モアレという現象にフォーカスした作品。
+モアレとは規則正しい繰り返し模様を複数重ね合わせた時に、それらの周期のずれにより視覚的に発生する縞模様のことである。
+通常モアレは不要な情報「ノイズ」として捉えられるが、それをあえて生成し続けることにより、目の前にある現象を見つめなおす体験となる。
+また、ヘッドホンから流れる音は、視覚的なモアレという概念を聴覚的に再現したものである。
+PC、モニター、ヘッドホンほか
+2024年</description>
+    </item>
+    
+    <item>
+      <title>Multiple records</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/multiple_records/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/multiple_records/</guid>
+      <description>グラフィック / Graphic
+Daily Codingの作品群から選んだ作品をA3サイズで印刷した作品。
+「記録」や「記憶」をテーマとし、おもに樹木の年輪などから着想を得た。
+マット紙、インク
+2024年</description>
+    </item>
+    
+    <item>
       <title>Natural Light</title>
       <link>https://eiichiishii.github.io/echweb/music/natural_light/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -327,7 +394,9 @@ p5.jsのコードそのものをNFT化
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eiichiishii.github.io/echweb/news/</guid>
-      <description>2023/10/28
+      <description>2024/05/26
+グループ展「作家と話せる展覧会」に参加しました。
+2023/10/28
 「あそべる図書館—Speculative Library」の「どこでもアート鑑賞」展示コーナーに作品を出展しました。
 https://www.ycam.jp/events/2023/speculative-library/
 2023/07/23
@@ -398,6 +467,20 @@ https://echmusics.bandcamp.com
 2016年
 購入はこちらか、イベント等で(CD)
 Ordinary Days E.C.H https://echmusics.bandcamp.com/album/ordinary-days</description>
+    </item>
+    
+    <item>
+      <title>Particles</title>
+      <link>https://eiichiishii.github.io/echweb/installation/particles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/installation/particles/</guid>
+      <description>インスタレーション / Installation
+p5.jsで粒子を生成するプログラムを描き、その出力画面をモニターに映し、
+インスタントカメラ（INSTAX）で撮影・現像した。
+全部で3種類のバリエーションがあり、デジタルでありながら、アナログの柔らかい質感の融合を目指した。
+チェキフィルム、アクリルブロック、磁石ほか
+2024年</description>
     </item>
     
     <item>
@@ -674,13 +757,52 @@ viewfinder E.C.H https://echmusics.bandcamp.com/album/viewfinder</description>
     </item>
     
     <item>
+      <title>Wall</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/wall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/wall/</guid>
+      <description>グラフィック / Graphic
+Daily Codingの作品群から選んだ作品を印刷した作品。
+壁面に描かれた殴り書きのグラフィティをイメージして制作した。
+マット紙、インク、フレーム
+2023年</description>
+    </item>
+    
+    <item>
+      <title>Waves</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/waves/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/waves/</guid>
+      <description>グラフィック / Graphic
+Daily Codingの作品群から選んだ作品をA3サイズで印刷した作品。
+連続する波を重ね合わせて画面を構成した。
+マット紙、インク
+2024年</description>
+    </item>
+    
+    <item>
+      <title>Winds of Illusion</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/wind_of_illusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/wind_of_illusion/</guid>
+      <description>グラフィック / Graphic
+Daily Codingの作品群から選んだ作品をA3サイズで印刷した作品。
+抽象絵画のような形や質感にこだわった。
+マット紙、インク
+2024年</description>
+    </item>
+    
+    <item>
       <title>Works</title>
       <link>https://eiichiishii.github.io/echweb/works/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eiichiishii.github.io/echweb/works/</guid>
-      <description>Installation 見出しへのリンク 耳のいきつぎ「この音はなんの音？」 | bugs | ONE | Slit ver.2 | Slit | intervention | torsion – light blue version | superorganism | auditory sense and vision | * . * | Pastel | torsion | ground-0 | viewpoint
-Graphic 見出しへのリンク Speculative Library : Untitled | SPACE／T | CASSETTE TAPES | STACK | JYANKEN | daily coding #20210309 (Chemical ground) | daily coding #20210203 (Sphenoid clavicle) | Daily Coding Challenge (PCJ) Gallery – E.</description>
+      <description>Installation 見出しへのリンク Moire-System | Marble Water | Particles | 耳のいきつぎ「この音はなんの音？」 | bugs | ONE | Slit ver.2 | Slit | intervention | torsion – light blue version | superorganism | auditory sense and vision | * . * | Pastel | torsion | ground-0 | viewpoint
+Graphic 見出しへのリンク Winds of Illusion | Areas | Mingled | Waves | Wall | Multiple records | Speculative Library : Untitled | SPACE／T | CASSETTE TAPES | STACK | JYANKEN | daily coding #20210309 (Chemical ground) | daily coding #20210203 (Sphenoid clavicle) | Daily Coding Challenge (PCJ) Gallery – E.</description>
     </item>
     
     <item>

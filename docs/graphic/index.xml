@@ -7,6 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language><atom:link href="https://eiichiishii.github.io/echweb/graphic/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Areas</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/areas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/areas/</guid>
+      <description>グラフィック / Graphic
+Daily Codingの作品群から選んだ作品をA3サイズで印刷した作品。
+「領域」をテーマにした作品。
+マット紙、インク
+2024年</description>
+    </item>
+    
+    <item>
       <title>CASSETTE TAPES</title>
       <link>https://eiichiishii.github.io/echweb/graphic/cassette_tapes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -82,6 +95,32 @@ p5.jsのコードそのものをNFT化
     </item>
     
     <item>
+      <title>Mingled</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/mingled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/mingled/</guid>
+      <description>グラフィック / Graphic
+Daily Codingの作品群から選んだ作品をA3サイズで印刷した作品。
+グラフィティ要素の多い作品。ハケで絵の具を伸ばしたような表現をデジタルで試みた。
+マット紙、インク
+2024年</description>
+    </item>
+    
+    <item>
+      <title>Multiple records</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/multiple_records/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/multiple_records/</guid>
+      <description>グラフィック / Graphic
+Daily Codingの作品群から選んだ作品をA3サイズで印刷した作品。
+「記録」や「記憶」をテーマとし、おもに樹木の年輪などから着想を得た。
+マット紙、インク
+2024年</description>
+    </item>
+    
+    <item>
       <title>SPACE／T</title>
       <link>https://eiichiishii.github.io/echweb/graphic/space_t/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -129,6 +168,45 @@ Tシャツにプリント、スチレンボード、光沢紙
 NFTの販売を行っているNFTマーケットプレイスの大手「OpenSea」にてジェネラティブアート専門のコレクション「function draw()」よりリリースした作品。固定価格、1.2ETHで購入された。
 p5.jsのコードそのものをNFT化
 2021年</description>
+    </item>
+    
+    <item>
+      <title>Wall</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/wall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/wall/</guid>
+      <description>グラフィック / Graphic
+Daily Codingの作品群から選んだ作品を印刷した作品。
+壁面に描かれた殴り書きのグラフィティをイメージして制作した。
+マット紙、インク、フレーム
+2023年</description>
+    </item>
+    
+    <item>
+      <title>Waves</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/waves/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/waves/</guid>
+      <description>グラフィック / Graphic
+Daily Codingの作品群から選んだ作品をA3サイズで印刷した作品。
+連続する波を重ね合わせて画面を構成した。
+マット紙、インク
+2024年</description>
+    </item>
+    
+    <item>
+      <title>Winds of Illusion</title>
+      <link>https://eiichiishii.github.io/echweb/graphic/wind_of_illusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eiichiishii.github.io/echweb/graphic/wind_of_illusion/</guid>
+      <description>グラフィック / Graphic
+Daily Codingの作品群から選んだ作品をA3サイズで印刷した作品。
+抽象絵画のような形や質感にこだわった。
+マット紙、インク
+2024年</description>
     </item>
     
   </channel>
